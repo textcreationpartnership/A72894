@@ -1,0 +1,1108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe discourse of royall monarchie, as of the best common weale vvherin the subiect may beholde the sacred maiestie of the princes most royall estate. VVritten by Charles Merbury Gentleman in duetifull reuerence of her Maiesties most princely Highnesse. Whereunto is added by the same gen. a collection of Italian prouerbes, in benefite of such as are studious of that language.</title>
+            <author>Merbury, Charles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1581</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72894</idno>
+            <idno type="STC">STC 17823.5</idno>
+            <idno type="STC">ESTC S112612</idno>
+            <idno type="EEBO-CITATION">99847859</idno>
+            <idno type="PROQUEST">99847859</idno>
+            <idno type="VID">151082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 436:10 or 1999:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe discourse of royall monarchie, as of the best common weale vvherin the subiect may beholde the sacred maiestie of the princes most royall estate. VVritten by Charles Merbury Gentleman in duetifull reuerence of her Maiesties most princely Highnesse. Whereunto is added by the same gen. a collection of Italian prouerbes, in benefite of such as are studious of that language.</title>
+                  <author>Merbury, Charles.</author>
+               </titleStmt>
+               <extent>[8], 52, [2], 4, 7-31, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Vautrollier dwelling in the Blackefrieres, by Ludgate,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1581.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Prouerbi vulgari", in Italian, has separate divisional title and pagination; register is continuous.</note>
+                  <note>Leaf G3 is cancelled; a leaf is inserted after H2.</note>
+                  <note>A reissue, with new preliminaries, of STC 17823. This issue has a dedication in Italian to Queen Elizabeth on *2r.</note>
+                  <note>Identified as STC 17823 on UMI microfilm.</note>
+                  <note>Reproduction of the originals in the Henry E. Huntington Library and Art Gallery and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proverbs, Italian --  Early works to 1800.</term>
+               <term>Monarchy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151082:1" rendition="simple:additions"/>
+            <p>A BRIEFE DIS<g ref="char:EOLhyphen"/>COVRSE OF ROYALL MONARCHIE, AS OF THE BEST COMMON WEALE: VVherin the ſubiect may beholde the Sacred Maieſtie of the Princes moſt Royall Eſtate.</p>
+            <p>VVritten by <hi>CHARLES MERBVRY</hi> Gentleman in duetifull Reuerence of her Maieſties moſt Princely Highneſſe.</p>
+            <p>Wherunto is added by the ſame Gen. A Collection of Italian Prouerbes, In benefite of ſuch as are ſtudious of that language.</p>
+            <figure>
+               <q>ANCHORA SPEI.</q>
+            </figure>
+            <p>Imprinted at London by Thomas Vautrollier dwelling in the Blackefrieres, by Ludgate. 1581.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:151082:2"/>
+            <pb facs="tcp:151082:2" rendition="simple:additions"/>
+            <head>ALLA PRVDENTISS<hi rend="sup">ma</hi> ET VIRTVOSISS<hi rend="sup">ma</hi> SIGNORA, LA SERENISS<hi rend="sup">ma</hi> REINA ELISABETTA, Reina feliciſs<hi rend="sup">ma</hi> d'Inghilterra &amp;c.</head>
+            <head type="sub">CARLO MERBVRY humil vaſſallo, &amp; minimo ſeruo deſidera lunga vita, &amp; perpetua felicità.</head>
+            <p>
+               <seg rend="decorInit">S</seg>I COME il viandante riguarda al Sole, il nauigante alla tramontana, &amp; la calamita al Polo: coſi (Sere<g ref="char:EOLhyphen"/>niſs<hi rend="sup">ma</hi> Maeſtà) hauend'io à ſolcar con la mia debil barca nell'alto ma<g ref="char:EOLhyphen"/>re delle Republiche, &amp; de gliſtati; hò preſo ardire d'alzar gl'occhi alla diuina, &amp; chia<g ref="char:EOLhyphen"/>ra ſtella del ſuo feliciſs<hi rend="sup">mo</hi> Regno; indrizzando il corſo del mio viaggio, &amp; gouernandolo tutto, ſe<g ref="char:EOLhyphen"/>condo lo ſplendor, &amp; la chiarezza di quello. Però con ogni humiltà ſupplico ſua Sacra Maeſtà, che (qua<g ref="char:cmbAbbrStroke">̄</g>tun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> la mia Nauicella non habbia à pena toc<g ref="char:EOLhyphen"/>cate le prime ſpo<g ref="char:cmbAbbrStroke">̄</g>de di quel profondo pelago) ſi de<g ref="char:EOLhyphen"/>gni pure con benigna fronte riguardarla; ſgombra<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>do con la ſerenità de'i ſuoi reali occhi l'indegnità di quella, &amp; del infelice nocchiere: Il quale priega diuotamente Iddio, che ſua Maeſtà Sereniſsima, (Stella, Sole, Honor, &amp; Gloria della natione Inghi<g ref="char:EOLhyphen"/>leſe) ſplenda lungamente, &amp; ci ſcaldi ſempre con i ſuoi viui, &amp; chiariſſimi raggi.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151082:3"/>
+            <pb facs="tcp:151082:3"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Had thought, vvhen shortly af<g ref="char:EOLhyphen"/>ter my co<g ref="char:cmbAbbrStroke">̄</g>ming from beyonde the Seas, I firſt entred into this bold<g ref="char:EOLhyphen"/>nes of vvriting (prouoked ther<g ref="char:EOLhyphen"/>vnto for not looſing altogether the remembraunce of thoſe fevv ſtudies vvhich I had vſed in my late trauelles: enforced alſo by the vacantneſſe of my time (as then attending in Courte vpon her <hi>Maieſties</hi> ſeruice:) and not a litle incouraged by the vertuous and learned companie of my good friende maiſter <hi>Henry Vnton,</hi> vvith vvhome I had both in the languages and in other good letters, vvherin he is rarely indued, daily conference:) I had thought I ſaye (vvhen moued vpon theſe good occaſions I firſt tooke penne in hande) to haue onely, by calling ſome thinges to my remembraunce and by imparting them after vnto ſome fevv of my priuate Friendes, the better eſta<g ref="char:EOLhyphen"/>blished therby my ovvne vnderſtanding, and ſomevvhat alſo enriched and confirmed theirs: litle or nothing at all thinking that any ſuch idle exerciſes of mine should euer come vnto the open ſight, and light of the vvorlde. VVher<g ref="char:EOLhyphen"/>fore calling to minde hovv I had othervvhiles beſtovved ſome time in <hi>Oxford</hi> (vnder the gouernement of my lear<g ref="char:EOLhyphen"/>ned Tutor maiſter <hi>Doctor Humfry</hi>) in the ſtudies of hu<g ref="char:EOLhyphen"/>manitie: and remembring alſo hovv I had lately taken ſome litle paines in ſeeing of Cities, and Countreyes, and obſeruing their cuſtomes, and ſundry ſortes of Gouernement:
+<pb facs="tcp:151082:4"/>
+I thought good to take ſuch a kinde of enterpriſe in hande, as might beſt miniſter vnto me occaſion to put thoſe thinges in vſe and practiſe, vvhich I had before time ſeene, and learned. Being minded therefore to reduce ſuch my intent and purpoſe in Imitation of <hi>Ariſtotles</hi> Humane <hi>Philoſophie</hi> into three ſeuerall partes, all tending vnto the iuſt conſideration of a beſt and a moſt perfect common vveale (The fitteſt fielde me thought vvherin to runne at large my pretended courſe:) I beganne firſt vvith a morall treatice; vvherin after the maner of the ſaide <hi>Ariſtotle</hi> in his <hi>Ethickes,</hi> I shevved vvhat is the laſt Ende of a beſt Common vveale, applying vnto the ſame all ſuch perfec<g ref="char:EOLhyphen"/>tion of vertue, and humane felicitie, vvith all the com<g ref="char:EOLhyphen"/>plementes and ornamentes of externall good thinges be<g ref="char:EOLhyphen"/>longing thervnto, as he did in his <hi>Moralles</hi> vnto his <hi>Sum<g ref="char:EOLhyphen"/>mum,</hi> and <hi>ciuile bonum.</hi> A treatie, allthough not al<g ref="char:EOLhyphen"/>together to be diſpiſed (as none ſuch of that matter being to my knovvledge vvritten in this our English tongue:) yet becauſe I deſired not as then to bring my name in que<g ref="char:EOLhyphen"/>ſtion vnto the vvorlde (hauing onely shevved ſuch my indeuour vnto ſome fevv priuate friendes of mine) I laide the ſame a ſide, and proceeded vnto the ſeconde parte of my Inſtitution, concerning the beſt forme and facion of a perfect Commonvveale. VVherin, not follovving my for<g ref="char:EOLhyphen"/>mer Guide in his bookes of <hi>Polletickes,</hi> but relying rather vpon the riper iudgement of later vvriters, and adding ſomevvhat alſo of my ovvne ſmall experience, gathered of my late ſtudies, and trauailes: I tooke iuſt occaſion to pre<g ref="char:EOLhyphen"/>ferre <hi>Monarchie</hi> aboue all other kindes of Commo<g ref="char:cmbAbbrStroke">̄</g> vveales, and vnder the Royall mantell of the ſame to diſcouer a per<g ref="char:EOLhyphen"/>fect shape of the beſt, and moſt happy ſtate of gouerne<g ref="char:EOLhyphen"/>ment. This Treatice both for the vvorthineſſe of the mat<g ref="char:EOLhyphen"/>ter, and for the good ende, and duetifull intent of the ſame,
+<pb facs="tcp:151082:4"/>
+as alſo for ſome other priuate cauſes of my ovvne; I thought good to preferre vnto a fevv honorable and vvorshipfull of my ſpeciall Fauourers and freindes; nothing at all deſi<g ref="char:EOLhyphen"/>ring that the ſame should any othervviſe be ſeene or layed open vnto the variable ſpeeches, and cenſures of the vvorld. But being further incouraged ſince by ſome, vvhoſe iudge<g ref="char:EOLhyphen"/>ment I ought not to deſpice, and requeſted alſo by others, vvhome I vvould be loth any thing to denie, I haue novv taken this boldneſſe to publish, and impart it vnto my Coun<g ref="char:EOLhyphen"/>trie: hoping, that though the handling therof be but rude, and ſimple, yet foraſmuch as the matter tendeth vnto the honour, and duetifull reuerence of our moſt gracious Mai<g ref="char:EOLhyphen"/>ſtriſſe (her Maieſties Highneſſe) you vvilbe as vvell conte<g ref="char:cmbAbbrStroke">̄</g>t to reade it, as I am vvilling to recommend it vnto you. I haue added alſo for the benefit of ſuch young gentlemen, as are ſtudious of th' Italian tongue, a Collection of Prouerbes, and ſentences, the vvhich I gathered in diuers places of Italie, and out of ſondry approued authors: ſome parte vvher<g ref="char:EOLhyphen"/>of alſo I borrovved of my freinde maiſter <hi>Henry Vnton;</hi> vnto vvhome, if you reape any commoditie therof, I praye you, that vvhat thankes you vvould be<g ref="char:EOLhyphen"/>ſtovv vpon me, you vvill imparte them vnto him. Fare you vvell.</p>
+            <closer>
+               <signed>C. MEBVRY.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:151082:5"/>
+            <head>HENRY VNTON, to the vertuous Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>OVGHT not, can not, and therefore will not omit (prouoked by the worthi<g ref="char:EOLhyphen"/>neſſe of the matter, compelled by the faſt friendſhip of the Author (whome I haue long, and much loued,) and incou<g ref="char:EOLhyphen"/>raged by my owne priuate knowledge of the Gentlemans Intent, and trauailes) to publiſh my priuate good liking, Iudge<g ref="char:EOLhyphen"/>ment, and commendation of this booke: As, a teſtimoniall of my thankefull good will vnto him: A Seale of our vnfained friendſhip vnto others: and laſtly, a per<g ref="char:EOLhyphen"/>fecte diſcharge, and ſatisfaction for my ſelfe. Which duely conſidered I haue burſt out into theſe few rude lines, not to th'Ende I am able to pur<g ref="char:EOLhyphen"/>chaſle praiſe vnto th'Author, (Becauſe the leſſe can not authorize the greater) but that I may gaine commendation to my ſelfe, onely for ſhew of a thankefull, and well willing minde. Seeing therefore of neceſſitie I muſt needes ſpeake ſomewhat, this is my conceiued opinion: that, in this booke you ſhall feede your vnderſtanding with a moſt delicate and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foode, containing in it a ſweete ioyce, and rare Quinteſſence of the beſt framed <hi>Monarchie:</hi> wherby the poore of vnderſtanding in mat<g ref="char:EOLhyphen"/>ters of ſtate may be enriched, and the riche of vnderſtanding ſomewhat therin the better confirmed: and all ſortes of men with an admiration of her <hi>Maieſties</hi> moſt Royall perſon, and perfect gouernement not a litle ra<g ref="char:EOLhyphen"/>uiſhed: wherunto th'Authors whole intent onely directeth it ſelfe. And albeit his Diſeourſe be but ſmall in quantitie, yet it exceedeth in qualitie. For that his writing is not obſcure, but cleere: not forced, but free: not roughe or harſhe, but ſmoothe, and pleaſaunt: not out of order, but well vnited, methodicall, briefe, fullfraited with vatietie of matter, and no<g ref="char:EOLhyphen"/>thing at all affected: briefly it is not painted with any glorious colours, but naked, (like the truth,) and in all pointes it is like vnto him ſelfe: who coueteth rather to be in this his Countrey as a tree in a garden to beare fruite, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n as a tree to make a ſhew and ſhadow onely. Imploye there<g ref="char:EOLhyphen"/>fore (I beſeeche you) your leaſure, to reade with a purged iudgement this his rare Enterprice, and by your good, and iuſt commendation, ra<g ref="char:EOLhyphen"/>ther ſeeke to ſpurre others to treade theſe his good ſteppes: then by your diſcommendation to clippe their winges, which elſe of them ſelues would make the like ſlight. Which if you doe, (as if you paye your ſelues with reaſon you muſt needes doc,) you may incourage both him and many others to be your Creditors hereafter for the like, or greater Enterpriſes, Fare you well.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:151082:5" rendition="simple:additions"/>
+                  <head>A DISCOVRS OF MO<g ref="char:EOLhyphen"/>NARCHIE AS OF THE BEST COM<g ref="char:EOLhyphen"/>mon wealth: tending vnto the duitifull conſideration or rather admiration of a Royall Princes most highe, and happy Eſtate.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>S there is nothing more comfortable vnto all li<g ref="char:EOLhyphen"/>uing creatures, then to ſee the light, and ſhining of the gladſome Sunne: So is there nothing more ioyful vnto all good ſubiectes, then to beholde the Glorie, and Maieſtie of their ſoueraigne Prince. If the Sunne intercep<g ref="char:EOLhyphen"/>ted with cloudes, and vapours, or by ſome other interpoſition preue<g ref="char:cmbAbbrStroke">̄</g>ted, ſendeth not forth his lightſome beames: The whole face of the Earth is couered (as we ſee it is in the night ſeaſon) with ſadneſſe, and blacke, and loth<g ref="char:EOLhyphen"/>ſome darkneſſe. Birdes keepe in their buſhes, ſnakes in their holes, men hide them ſelues
+<pb n="2" facs="tcp:151082:6"/>
+in their houſes. In like maner if the Princes Power be in any pointe impared, or the bright<g ref="char:EOLhyphen"/>neſſe of his Royall Maieſtie any whitte eclip<g ref="char:EOLhyphen"/>ſed: the ſubiecte ſtraight doth feele the ſmarte, and want therof. The Trauailer is leſſe eſtemed abrode: the Courtier leſſe regarded at home: the Marchante leſſe priuileged in a farre coun<g ref="char:EOLhyphen"/>trey: the Noble man leſſe honored in his owne. For as the Moone, the Starres, and all infe<g ref="char:EOLhyphen"/>riour lightes doe fetche their light from that great light (the life, and light of the worlde:) Euen ſo the proſperous eſtate of the ſubiectes, is deriued from the proſperitie of the Prince: their honour from his honour: their eſtimation from his eſtimation. So long as the Romane Empire flouriſhed, and retained his light, and brightneſſe, a Senator of ROME was thought any kinges compagnion: a Citizen, or ſoul<g ref="char:EOLhyphen"/>dier of ROME might haue trauailed ouer all the worlde without paying one pennie of taxe, or towle. And ſince the Dignitie of th'Empire was tranſlated into Germany: the Germanes alſo in moſt places haue like priuileges. At BO<g ref="char:EOLhyphen"/>LOGNA (a famous Vniuerſitie of the Popes in Lombardie) they are not ſubiect vnto th'Inqui<g ref="char:EOLhyphen"/>ſition: At FLORENCE, SIENNA, PISA, (cheife
+<pb n="3" facs="tcp:151082:6"/>
+cities of Tuſcane) they haue free libertie to ca<g ref="char:EOLhyphen"/>rie their weapons, and in many places they pay no Impoſtes. So the Spagniard, becauſe his Prince is of great Power, and pretendeth ma<g ref="char:EOLhyphen"/>ny Titles: he chalengeth alſo many Prehemi<g ref="char:EOLhyphen"/>nences. If he may haue his will, he will ſit vp<g ref="char:EOLhyphen"/>permoſt at the table whereſoeuer he commeth: and though he haue neither money in his purſe, nor good cloathes on his backe: yet becauſe his maiſter is kinge of Spaine, he wilbe SI<g ref="char:EOLhyphen"/>GNOR DI CASTILIA: and ſtarue rather, then worke in any maner of way with his hands to get him a liuing. For truely I do not remem<g ref="char:EOLhyphen"/>ber that I haue ſeene any Spagniard, (and yet I haue ſeene a great many both at MILAN, NA<g ref="char:EOLhyphen"/>PLES, MESSINA, SYRACVSA, MALTA) e<g ref="char:EOLhyphen"/>uer to exerciſe out of his countrey any manuall occupation. But I haue founde him, either in the Gallies a ſouldier, or in the Cities in maner of a Gentleman: wheras th'Italian hauing loſt the light, and dignitie of his nation: (the Ro<g ref="char:EOLhyphen"/>mane Empire) is contente on the Seas ſome<g ref="char:EOLhyphen"/>times to play the Mariner, and other whiles in the Cities to ſit dreſſing of ſilke: So the Fle<g ref="char:EOLhyphen"/>minge becauſe his countrey ſeemeth of late yeares to be ouer hadowed with a kinde of
+<pb n="4" facs="tcp:151082:7"/>
+darkeneſſe, (as wanting the foreſaid brightneſſe of Royall Maieſtie) he, as a man halfe in diſ<g ref="char:EOLhyphen"/>grace, hueth abroade with leſſe reputation and for the moſt parte vpon ſome bare, and handy<g ref="char:EOLhyphen"/>crafte occupation.</p>
+                  <p>VVherefore it is no ſmall comforte vnto an Engliſh Gentleman, finding him ſelfe in a farre countrey, when he may boldly ſhew his face, and his forehead vnto any forren Nation: ſit ſide by ſide with the proudeſt Spagniard: cheek by cheeke with the ſtouteſt Germane: ſet foote to foote with the forewardeſt Frenchma<g ref="char:cmbAbbrStroke">̄</g>: know<g ref="char:EOLhyphen"/>ing that his moſt Royall Prince (her Maieſties highneſſe) is no whitte ſubiecte, nor inferiour vnto any of theirs. But that ſhee may alſo (if ſhee plaiſe) chalenge the ſuperioritie both o<g ref="char:EOLhyphen"/>uer ſome of them, and ouer many other kinges, and Princes more. As maiſter DEE hath very learnedly of late (in certaine tables by him collected out of ſundry auncient, and approu<g ref="char:EOLhyphen"/>ued writers) ſhewed vnto her Maieſtie, that ſhee may iuſtly call her ſelfe LADY, and EM<g ref="char:EOLhyphen"/>PERES of all the Northe Ilandes.</p>
+                  <p>The which kindes of titles, and dignities, al<g ref="char:EOLhyphen"/>though they be not altogether to be neglected, (For they may in conuenient time miniſter iuſt
+<pb n="5" facs="tcp:151082:7"/>
+occaſion vnto the Prince to inlarge his domi<g ref="char:EOLhyphen"/>nions) yet becauſe they are but as Lanternes without light, or lightes without warmth, as flowers without fruite, and bloſſomes without ſubſtance, or certaintie: they are neither ſo highly to be regarded, nor ſo tenderly to be cheriſhed), as thoſe Royalties, and dignities, which I intende (where occaſio<g ref="char:cmbAbbrStroke">̄</g> ſhalbe offered) to commend vnto the excellencie of ROYALL MONARCHIE, as neceſſarie vnto the framing, and faſhioning of a beſt, and a moſt perfect common weale: The skope, and marke wher<g ref="char:EOLhyphen"/>vnto tendeth the ſpeciall purpoſe of this pre<g ref="char:EOLhyphen"/>ſente diſcourſe. For, as in a morall Treatice I haue done my indeuour to ſhew what is the principall, and laſt ende of the beſt common weale: So doe I deſire in this ciuill diſcourſe to declare, what is the beſt forme, and faſhion of the ſame. And thirdly (when time ſhall ſerue) to ſpeake of the diſcipline, and maner of gou<g ref="char:EOLhyphen"/>uernement wherwith ſhee may beſt direct her ſelfe vnto the obteining of the ſaide her laſt ende and perfection.</p>
+                  <p>Diſcourſes (I confeſſe) more fit for them that are continually conuerſante in the skoole of good learning, or for ſuch, as tredde the pathe
+<pb n="6" facs="tcp:151082:8" rendition="simple:additions"/>
+of publicke affaires, then for him that followeth no ſuch profeſſion: Yet ſeeing that I proceede<note place="margin">7. The maner of procee<g ref="char:EOLhyphen"/>ding of the Author.</note> not therin by waye of rules and preceptes: As CICERO, ARISTOTLE, and PLATO did in their common weales, (<hi>Che non vanno ſi alte l'ale mie,</hi>) but by the way of reaſoning, and of diſ<g ref="char:EOLhyphen"/>courſe, not preſuming to teache any (thinking my ſelfe skante worthy to learne of thoſe vnto whoſe excellent handes theſe lines may happe<g ref="char:EOLhyphen"/>ly come) but meaning onely to put the lear<g ref="char:EOLhyphen"/>ned reader in minde of that, which he already knoweth; and if by chaunce there ſhall be any thing new therin, and not in this our natiue language before time written, humbly to re<g ref="char:EOLhyphen"/>commend the ſame vnto his courteous correc<g ref="char:EOLhyphen"/>tion: I hope, my modeſte meaning will helpe to excuſe the boldneſſe of my enterpriſe, and the courteſie of the reader will vouchſafe to re<g ref="char:EOLhyphen"/>garde more the good wil, and th'indeuour: then the ſimple skill, and youngneſſe of the writer.</p>
+                  <p>But for to come vnto our preſent Inſtitution: I will firſt (becauſe there are diuers kindes of<note place="margin">The order obſerued by the author.</note> common weales, and diuers opinions therof according vnto the diuerſitie of mens affecti<g ref="char:EOLhyphen"/>ons:) before I ſpeake of the maner, and forme of the beſt common weale: ſhew in generall,
+<pb n="7" facs="tcp:151082:8"/>
+what a common weale is: how many ſpeciall kindes of common weales there are: and wherin they differre one from an other. A com<g ref="char:EOLhyphen"/>mon weale therefore is, An order of gouerne<g ref="char:EOLhyphen"/>ment<note place="margin">What a co<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>mon weale is.</note> obſerued in a citie, or in a countrey, as touching the Magiſtrates that beare rule therin: eſpecially concerning that Magiſtrate, which hath higheſt authoritie, and is the principall. The ſupreme, or principal Magiſtrate we meane him, who ruleth all vniuerſally: from whome is deriued, &amp; vpon whome dependeth the power, and authoritie of all inferiour offices, and or<g ref="char:EOLhyphen"/>ders: As in a popular Eſtate, the people: In a kingdome, the Prince. Of commo<g ref="char:cmbAbbrStroke">̄</g> weales ſome<note place="margin">How many kindes of common weales there are.</note> are good, and iuſte, which tende onely vnto th'aduauncement of the publicke profit. Others are ill, and wicked, tending altogether vnto their owne priuate commoditie, and not vnto the benefit of their countrey. Of good com<g ref="char:EOLhyphen"/>mon weales there be three kindes. The firſt is, wheras a number of good men, and men of reaſonable wealth, doe iointly beare rule toge<g ref="char:EOLhyphen"/>ther,<note place="margin">What is Reſpublica.</note> procuring by all good meanes they can, the weale of their countrey: the which is cal<g ref="char:EOLhyphen"/>led by the generall name of common weale: (in Latine <hi>Reſpublica</hi>) ſuch as was vſed in SPAR<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                     <pb n="8" facs="tcp:151082:9"/>
+and is now in GENOA, and in LVCCA.</p>
+                  <p>An other is, when the gouernemente of the whole is committed vnto the handes of a few<note place="margin">What is <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</note> of the beſt, and choiſeſte perſones, ſuch as in<g ref="char:EOLhyphen"/>deuour to imploye the ſame vnto the benefitte of thoſe, which are vnder them: The which in the Greeke tongue, is called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: An E<g ref="char:EOLhyphen"/>ſtate of the beſt, or a gouernement of the ſtates: wherof the common weale of VENICE is at<note place="margin">What is Monar<g ref="char:EOLhyphen"/>chie.</note> this daye the onely Phenix. The third is that which we call a kingdome, the greekes <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: wheras one onely ruleth, and hath ſoueranitie: directing ſuch his gouernement (next vnto the glorie of God,) vnto the proſperous, and hap<g ref="char:EOLhyphen"/>py eſtate of his ſubiectes. Examples wherof, though in theſe dayes of ours there ſeeme to be many: (all nations of the worlde almoſt, ha<g ref="char:EOLhyphen"/>uing receiued this kinde of gouernement) yet we neede not ſeeke any farther then our owne natiue countrey for a moſt liuely, and perfecte paterne of the ſame. And theſe be the three good common weales, deuiſed for the main<g ref="char:EOLhyphen"/>tenaunce of mankinde, eſtabliſhed for th'ad<g ref="char:EOLhyphen"/>uancement of iuſtice; and generally receiued, and imbraced for the proſperitie of cities, and countreys.</p>
+                  <pb n="9" facs="tcp:151082:9"/>
+                  <p>Now there are as many ill common weales, cleane contrarie vnto theſe, being in deede no<g ref="char:EOLhyphen"/>thing elſe, but the corruptions, and deſtructio<g ref="char:cmbAbbrStroke">̄</g>s, into the which the good common weales doe fall: when they doe alter from the maner, and forme wherin they were firſt inſtituted. The<note place="margin">What is Democra<g ref="char:EOLhyphen"/>tic.</note> firſt is, when the multitude of the common people, and of the baſer ſorte, (as of handy<g ref="char:EOLhyphen"/>craftes men, and ſuch other) haue the mane<g ref="char:EOLhyphen"/>ging of publicke affaires: vſing, or rather abu<g ref="char:EOLhyphen"/>ſing ſuch their authoritie vnto th'oppreſſing of the nobilitic, and aduauncing of the co<g ref="char:cmbAbbrStroke">̄</g>monal<g ref="char:EOLhyphen"/>tie: fauoring alwayes thoſe, that are of pooreſt, and meaneſt condition at their owne fooliſh fancie, without all order, or diſcretion. This corrupte, and confufe kinde of gouernemente is called in Greeke <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, A ſtate popular: ſuch as was in ROME: when the Tribunes pre<g ref="char:EOLhyphen"/>uailed againſt the Conſulls: and as was in FLO<g ref="char:EOLhyphen"/>RENCE after th'expulſing of PIERRO DE'MEDICI. The ſecond is, where a few of the<note place="margin">What is Oligarchie.</note> richeſt, and of the mightieſt, becauſe of their great power, and poſſeſſions doe carie all the ſwaye, ſeeking onely their owne profit, and not the furtherance of the common weale. The which is called in Greeke <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: ſuch as was
+<pb n="10" facs="tcp:151082:10"/>
+in FLORENCE in the yeare 1494: when CHARLES the eighte of France ouerranne I<g ref="char:EOLhyphen"/>talie ſubduyng NAPLES: and as was in SIENA in time of the PETRVCCII: and in GENOA in time of the ADORNI, and FREGOSI. The<note place="margin">What is Tyrannie.</note> thirde is called TYRANNIE, wheras one onely ruleth at his owne luſte, and pleaſure, and all for his owne aduauntage: without hauing any regarde vnto the good, or ill eſtate of his ſub<g ref="char:EOLhyphen"/>iectes. As DIONYSIVS did in SIRACVSA: NERO, COMMODVS, CARRACALLA did in ROME: The greate Signori doth in Turkie: and as king VORTIGERNE in the yeare 447. did here in Englande: who for to mainteine his Tyrannie called in the Saxons, and they to ſtabliſh their new power: oppreſſed the Brit<g ref="char:EOLhyphen"/>tons: dryuing them into a corner of the llande, brenning, and ſpoiling their countrey: wheras VVILLIAM the Conquerour (a Prince of more Iuſtice) forbad (at his firſt arriuall here) his ſouldiers to hurte, or ſpoile any Engliſh<g ref="char:EOLhyphen"/>man: ſaying that it ſhould be a great ſinne, and follie for him to ſpoile that people: which ere many dayes after were like to be his ſubiectes. VVherby we may ſee, that all good common weales haue: alwayes an eſpeciall care, and ten<g ref="char:EOLhyphen"/>derneſſe
+<pb n="11" facs="tcp:151082:10"/>
+ouer the ſubiectes, as good fathers haue ouer their children: And the corrupted, and vſurped gouernmentes (like vnto vnnatu<g ref="char:EOLhyphen"/>rall mothers) haue no regarde, but of their owne luſtes, and licenciouſneſſe.</p>
+                  <p>But to ſpeake more particularly of the diffe<g ref="char:EOLhyphen"/>rences betwene good and ill common weales: VVe finde that a common weale common<g ref="char:EOLhyphen"/>ly ſo called, (and taken in good parte) is con<g ref="char:EOLhyphen"/>tent with a meane eſtate, neither enuying o<g ref="char:EOLhyphen"/>thers, becauſe ſhe wanteth not her ſelfe, neither enuyed of any, becauſe ſhe doth not poſſeſſe any great aboundance of wealth. (I meane in priuate mens handes:) ſhe is obediente vnto the lawes, not inſolent in her magiſtrates: ſhe is not of ſo vile, and baſe minde: as to ſuffer her ſelfe to be choked with bribes, or corrup<g ref="char:EOLhyphen"/>ted with couetouſneſſe. But the Signorie of<note place="margin">The diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>twene Reſ<g ref="char:EOLhyphen"/>publica, &amp; Democra<g ref="char:EOLhyphen"/>tia.</note> the mechanicall people, (called DEMOCRA<g ref="char:EOLhyphen"/>TIA) is alwayes in confuſion: ſhe enuyeth the riche, and malliceth the mightie, ſeeking how to betraye the nobilitie: ſhe is of ſo baſe, and vile condition: as ſhe can not applie her ſelfe vnto any kinde of good gouernement: ſhe is ignorant of all thinges: and yet ſhe thinketh to know euery thing: In few wordes ſhe is no bet<g ref="char:EOLhyphen"/>ter
+<pb n="12" facs="tcp:151082:11"/>
+then an vniuerſall confuſion, a horrible mon<g ref="char:EOLhyphen"/>ſter of many heddes without reaſon, &amp; a tempe<g ref="char:EOLhyphen"/>ſtuous Sea toſſed with boyſterous windes in e<g ref="char:EOLhyphen"/>uery place &amp; at euery ſeaſon. Betwene the go<g ref="char:EOLhyphen"/>uernement of the beſt, and that of the mightieſt, there is this difference. Thoſe of the beſt haue no other ende prefixed vnto them, but vertue and honeſtie: They refuſe no traualle, or paines<note place="margin">The diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>twene Ari<g ref="char:EOLhyphen"/>ſtocratie, and Oli<g ref="char:EOLhyphen"/>garchie.</note> for the benefit of ſuch, as are committed vnto their charge: they loue and cheriſh the poore people, procuring to make them liue in good, and plentifull eſtate, defending them alſo from being iniured of mightier, and richer then they: and aboue all thinges they ſeeke to traine vp their citizens, and ſubiectes: as they would doe their owne proper children, vnder a continuall diſcipline of vertue, and good education. Theſe of the mightieſt, ſtudie onely how to pull from their ſubiectes all the wealth vnto them ſelues: by laying intollerable taxes, and tributes vpon them: All profites, honors, pleaſures, and com<g ref="char:EOLhyphen"/>modities they thinke to be due vnto them one<g ref="char:EOLhyphen"/>ly: All charges, labours, troubles, and dangers poſtinge ouer vppon the people, whome ne<g ref="char:EOLhyphen"/>uertheleſſe they hate deadly: inuenting by all meanes how to intrappe them, and that with all
+<pb n="13" facs="tcp:151082:11"/>
+kind of inſolencie. Betwene a good Kinge, and<note place="margin">The diffe<g ref="char:EOLhyphen"/>rence be<g ref="char:EOLhyphen"/>twene Mo<g ref="char:EOLhyphen"/>narchis, &amp; Tyrannie.</note> a Tyrante there is this difference. The one is courteous, mercifull, endewed with all vertue: the other is hautie, and cruell, defiled with all vice. The one embraceth equitie, and iuſtice: the other treadeth both Gods lawe, and mans lawe vnder his feete. The one hath his minde, and all his care vpon the health, and wealth of his ſubiectes: th'other eſtemeth his owne plea<g ref="char:EOLhyphen"/>ſure more then their profit, his owne wealth, more then their good willes. The good Kinge taketh pleaſure to be freely aduertiſed, and wiſely reprehended when he doth amiſſe: the Tyrante can abide nothing worſe, then a graue, free ſpoken, and a vertuous man. The good Kinge puniſheth publicke iniuries, and pardo<g ref="char:EOLhyphen"/>neth thoſe which are done vnto him ſelfe: the Tyrante reuengeth moſt cruelly his owne iniu<g ref="char:EOLhyphen"/>ries, neglecting thoſe, which are done vnto o<g ref="char:EOLhyphen"/>thers. The good King hath an eſpeciall regarde vnto the honour, and good name of chaſte ma<g ref="char:EOLhyphen"/>trones: the Tyranttriumpheth in abuſing, and ſhaming of them. The good Kinge deliteth to be ſeene, and other whiles hard of his ſubiectes: the Tyrant Hideth himſelfe from them, as from his enemies. The good Kinge loueth his people
+<pb n="14" facs="tcp:151082:12"/>
+and is beloued of them againe: the Tyrant nei<g ref="char:EOLhyphen"/>ther loueth them, that are like vnto himſelfe fea<g ref="char:EOLhyphen"/>ring leſt they being as wicked as he, will be rea<g ref="char:EOLhyphen"/>dy to betray him for euery light cauſe, &amp; he ha<g ref="char:EOLhyphen"/>teth, and purſueth all thoſe that haue any valor, or vertue in them: as men, whome he knoweth to be by nature contrarie, and enemies vnto his tyrannie. Againe the one chargeth his people as litle as he can, and but vpon publicke hono<g ref="char:EOLhyphen"/>rable and neceſſarie occaſions: the other gnaw<g ref="char:EOLhyphen"/>eth the bones, and ſucketh out the very blood, and marowe of them with vnlawfull taxes, towles, and confiſcations: The one maketh choiſe of the beſt, and moſt ſufficient perſones about him to imploye in the publicke affaires: the other imployeth none but ruffianes, and cutthrotes: ſuch as he may beſt ſerue his owne turne withall: The one vſeth the aſſured fayth and forces of his owne ſubiectes, in time of warre againſt his enemies: the other calleth in forreinc nations whome he can not ſafely truſt: (as LONOVIKO SFORZA duke of MIDANE did) to warre againſt his owne contreymen: The one hath no garde, nor garriſon but of his owne naturall people: the other but of ſtran<g ref="char:EOLhyphen"/>gers: The one liueth in aſſured hope, merrie,
+<pb n="15" facs="tcp:151082:12"/>
+voide of ſuſpition, alwayes enioying the ſweete rewarde of his vpright conſcience: the other hath the pointe of a ſworde hanging ouer his head: alwayes languiſhing in continuall feare: The one looketh for euerlaſting ioye: the other can hardly eſcape euerlaſting paine: The one is honored in his life time, and wiſhed for after his death: the other is hated in his life time, and torne in peeces, after he is deade: ſo that li<g ref="char:EOLhyphen"/>uing, and dying he is in a continuall hell of all miſerie. VVherefore as the gouernement of a Tyrant is of all other the moſt odious, and of<note place="margin">Which is the beſt common weale.</note> the three ill common weales the worſt: So is a Lawefull kingdome of the three good the beſt, the happieſt, and that which I deſire to preferre in this my Treatice before all other: Not ledde therunto onely by bonde of duetie, as ſubiecte, and ſeruant vnto ſo worthy a Prince: Nor mo<g ref="char:EOLhyphen"/>ued by affection onely, as borne in ſo quiet, and proſperous eſtate of countrey: But moued, ledde, and drawen by force of good reaſon, grounded vpon the naturall excellenoie, and excellent properties therof: as it ſhall at large appeare: after that I haue firſt ſhewed of what eſpeciall kinde and qualitie this beſt common weale of kindome is.</p>
+                  <pb n="16" facs="tcp:151082:13"/>
+                  <p>
+                     <note place="margin">Sundry kindes of Monar<g ref="char:EOLhyphen"/>chies.</note>For there are diuers kindes of kingdomes, according vnto the diuerſitie of countryes, and of their lawes, and cuſtomes: though all good, &amp; lawfull, yet not all of like excellencie: though all pertakers of ſoueranitie, yet not all in equall proportion: though of like nature, and eſſence,<note place="margin">Kingdomes by Gifte.</note> yet differing accide<g ref="char:cmbAbbrStroke">̄</g>tally. For ſome kingdomes go by gifte, as IVBA was by OCTAVIVS, made of a ſlaue: kinge of NVMIDIA (now called Barbarie:) and as the kingdomes of NAPLES, and SICILE were giuen firſt vnto CHARLES Earle of Prouence in the yeare 1266, and af<g ref="char:EOLhyphen"/>ter vnto. LEWIS the firſt Duke of Anioue bro<g ref="char:EOLhyphen"/>ther vnto the french kinge CHARLES the fifth, (ſurnamed the wiſe:) and as ſome haue written that VVILLIAM the Conquerour by the gifte of his Nephew kinge EDWARD ſonne of king EGELRED pretended, and attained vnto the<note place="margin">Kingdomes by Teſta<g ref="char:EOLhyphen"/>mente.</note> Crowne of England. Others are lefte by will of teſtament, as CHARLES Nephew, and heire vnto RENALD Duke of Anioue bequethed all his eſtates, and dominions vnto the french<note place="margin">Kingdomes by Cuſto<g ref="char:EOLhyphen"/>mes.</note> kinge LEWIS the leuenth. Some deſcende by the vertue of a Lawe, as the Realme of Fraunce in practiſe of late deſcentes doth by the Lawe which they call SALICKE. Others goe by a<g ref="char:EOLhyphen"/>doption,
+<pb n="17" facs="tcp:151082:13"/>
+as E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>EVS kinge of ATHENES adop<g ref="char:EOLhyphen"/>ted<note place="margin">Kingdomes by Adoptio<g ref="char:cmbAbbrStroke">̄</g>.</note> THESEVS: MICIPSA kinge of the Nu<g ref="char:EOLhyphen"/>midians adopted IVGVRTHA: SCIPIO th'el<g ref="char:EOLhyphen"/>der adopted the ſonne of PAVLVS AEMILIVS: CAESAR the dictator, his Nephew: AVGV<g ref="char:EOLhyphen"/>STVS th'Emperor, adopted TIBERIVS: CLAV<g ref="char:EOLhyphen"/>DIVS, NERO: NERVA, TRAIAN: TRAIAN, ADRIAN, who after adopted ANTONINVS (ſurnamed the Pityfull:) &amp; ſo were AELIVS VE<g ref="char:EOLhyphen"/>RVS, and MARCVS AVRELIVS alſo adopted vnto th'Empire. Likewiſe of late yeares ANNE, and IANE Queenes of NAPLES, and SICIL<g ref="char:EOLhyphen"/>LE adopted LEWIS, and RENALTE Dukes of Anioue; and in the yeare 1408. MARGARIT Queene of Demnarke, and Swethlande adop<g ref="char:EOLhyphen"/>ted HENRY Duke of Pomerane for their heires, and ſucceſſours in all their dominitions. So in king HENRY the fifth of England byſide the intereſt of his aunceſters, and his owne in<g ref="char:EOLhyphen"/>tereſt vnto the Crowne of France was added an adoption by his father in law the french kinge CHARLES the ſixte. Some kingdomes are<note place="margin">Kingdomes by Lotte.</note> tranſlated from one to an other by lotte, or P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ouince of fortune: as it happened vnto DA<g ref="char:EOLhyphen"/>RIVS one of the ſeuen Lordes of PERSIA, who was made kinge, becauſe his horſe firſt neyed.
+<pb n="18" facs="tcp:151082:14"/>
+                     <note place="margin">Kingdomes by Pollicie.</note>Some eſtates are gotten by Pollicie, as in olde time CECROPES, HIERON, GELON, PISI<g ref="char:EOLhyphen"/>STRATVS gotte theirs: and as of later yeares COSMVS of MEDICES added the ſtate of SIENNA vnto his Dukedome of FLORENCE.<note place="margin">Kingdomes by Co<g ref="char:cmbAbbrStroke">̄</g>queſt.</note> A number of kingdomes alſo are gotten by conqueſte: As FERDINAND of ARAGON the firſt king of Spaine got the kingdomes of NA<g ref="char:EOLhyphen"/>PLES, NAVARRA, SICILE: and after him his daughters ſonne CHARLES the fifte, got the kingdome of THVNES, the dukedome of MILAN, the Soueranitie of Artois, and Flan<g ref="char:EOLhyphen"/>ders.<note place="margin">Kingdomes by Election.</note> Others go by Election, as the kingdome of POLONIA doth. And of this kinde there are diuers ſortes: For ſome are choſen kinges for their Nobleneſſe of birthe: As CAMPSON kinge of Caramania, was by the Mammelucs choſen for their SOVLDANE: the Vycountes of ANGLERIE were for their noble birth made Lordes of MILANE: Some for their Iuſtice, as NVMA POMPILIVS was by the Romaines: Some for their olde age, as the auncient ARA<g ref="char:EOLhyphen"/>BIANS did chooſe alwayes the eldeſt: Some for their great poſſeſſions, and mightie power AS HARAVLDE (ſonne to GOODWINNE Earle of Kente) was after the death of kinge
+<pb n="19" facs="tcp:151082:14"/>
+EDWARD (ſurnamed the Sainte becauſe of the good, and wholeſome lawes, which he in this our countrey inſtituted) choſen the laſt SAXON kinge in Englande: Some for their ſtrenght of body: as MAXIMINVS: Others for their beautie, as HELIOGABALVS: Others for their greatneſſe, and tallneſſe of ſtature, As they were wonte to doe in AETHIOPIA. All which are kindes of kingdomes, and they may be good, and lawfull, according as they are well and lawfully vſed: But they are not of that ex<g ref="char:EOLhyphen"/>cellencie which is required in our beſt king<g ref="char:EOLhyphen"/>dome. For there is yet an other kinde farre more excellent, then any of them, more com<g ref="char:EOLhyphen"/>mendable, more ſure, leſſe ſubiect to corruptio<g ref="char:cmbAbbrStroke">̄</g>, more capable of perfection. VVhich is when a<note place="margin">Which is the beſt kinde of Kingdome.</note> kingdome deſcendeth by right of Succeſſion vnto the next of the blood royall. In the which point we are co<g ref="char:cmbAbbrStroke">̄</g>tent to ſwarue from him, whom hitherto in the waye of Philoſophie we haue moſt followed: who was of opinion that kinges were rather to be choſen, calling them people Barbarous, which did take their kinges by way of Succeſſion: preferring therefore the Car<g ref="char:EOLhyphen"/>thaginians<note place="margin">That Suc<g ref="char:EOLhyphen"/>ceſſion is to be prefer<g ref="char:EOLhyphen"/>red before Election.</note> before the Lacedemonians, becauſe theſe receiued their kinges by Succeſſion, thoſe
+<pb n="20" facs="tcp:151082:15"/>
+by Election. But perhappes ARISTOTLE would haue differed herein from him ſelfe: if he had liued a litle longer for to haue ſene how the MONARCHIE of Macedone (hauing con<g ref="char:EOLhyphen"/>tinued fiue hundreth yeares from the father vn<g ref="char:EOLhyphen"/>to the ſonne in the right Line of HERCVLES) was after for want of Royall and Lineall Succeſ<g ref="char:EOLhyphen"/>ſion brought vnto vtter confuſion. Or if he had liued in theſe dayes of ours, to haue ſeene how kingdomes goe now, how they floriſh, how am<g ref="char:EOLhyphen"/>plie they diſte<g ref="char:cmbAbbrStroke">̄</g>de them ſelues, he would (doubt<g ref="char:EOLhyphen"/>leſſe) haue changed his opinion, and neuer haue called Barbarous ſo many goodly coun<g ref="char:EOLhyphen"/>tryes, and ſo diuers ſondry ſortes of nations: both of ASIA (as the Perſians, Medians, Par<g ref="char:EOLhyphen"/>thenians, Turkes, Tartarres, Arabians:) of A<g ref="char:EOLhyphen"/>FRICA (the Aethiopians, Barbarians, Numi<g ref="char:EOLhyphen"/>dians:) of EVROPE, (England, Scotland, Fraunce, Spaine, Naples, Sicile,) preferring before all th'afore ſaide riche and floriſhing E<g ref="char:EOLhyphen"/>ſtates a few colde countryes of Polonia, Dem<g ref="char:EOLhyphen"/>narke, and Swethland: becauſe theſe haue their kinges by Election, thoſe by Succeſſion. But he neuer needed for to haue liued ſo long for this matter. For if he would but haue looked backe with an indifferent eye into his owne
+<pb n="21" facs="tcp:151082:15"/>
+countrey of Greece (the which he commen<g ref="char:EOLhyphen"/>ded to be ſo ciuill) he ſhould haue found, that th'Athenians, Lacedemonians, Sicyonians, Co<g ref="char:EOLhyphen"/>rinthians, Thebanes, Epirotes, Macedonians, for the ſpace of ſixe hundreth yeares neuer had any other gouernement, but of kinges, and thoſe by the right, and lawfull waye of Succeſ<g ref="char:EOLhyphen"/>ſion: vntill ſuch time, as ambition, pride, and priuate Intereſt blinded their vnderſtanding, and made them change their kingdomes into DEMOCRATIES, and ARISTOCRATIES miſ<g ref="char:EOLhyphen"/>ſterming the ſame by the falſe name of libertie. The like may be ſaid of the auncient Toſcanes, and of the olde Latines, who many hundreth yeares before the building of ROME had their kinges, and gouernours deſcending lineally one vnto an other. As we reade that AENEAS by the right of his wife ſucceded vnto LATI<g ref="char:EOLhyphen"/>NVS: TIBERIVS (of whome the riuer of Te<g ref="char:EOLhyphen"/>uer or Tyber which runneth by ROME was ſo named) vnto AENEAS: and ſo forth vntill the kingdome came to ROMVLVS by the waye of his mother RHEA (daughter to NVMITOR. and Nece to AMVLIVS kinges of the Latines.) VVhereby we maye gather that in thoſe dayes neither Election was vſed, nor yet any excep<g ref="char:EOLhyphen"/>tion
+<pb n="22" facs="tcp:151082:16"/>
+made of kinde or Gender. But ſome man will ſay. O how happy is that cou<g ref="char:cmbAbbrStroke">̄</g>trey, where the eſtates of the people do make choiſe of a iuſt, and righteous Prince, who feareth God aboue all thinges, honoreth vertue, oppreſſeth vice, giueth rewarde vnto the good, and puniſhment vnto the wicked, that hateth flatterers, keepeth his fayth, and his promiſſe, baniſheth out of his Courte the Inuentours of new exactions, re<g ref="char:EOLhyphen"/>uengeth the iniuries that are done vnto others, &amp; forgiueth thoſe that are done vnto him ſelfe. Theſe are faire ſpeeches, and they ſeeme to ca<g ref="char:EOLhyphen"/>ry with them great good apparences. <hi>Sed lates anguis in herba,</hi> they ſhew not <hi>id manticae quod in tergo eſt.</hi> But as we are wonte to carie alwayes two ſachelles about vs, one before, to put other mens faultes in, and an other behinde, wherin to hide our owne: So they make no mention of the daungers, and diſcommodities which are incident vnto ſuch kinde of Elections. As what<note place="margin">What Inco<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>ueniences do proceede from Ele<g ref="char:EOLhyphen"/>ctions.</note> a monſterous Inconuenience is that when <hi>Sede vacante,</hi> after the Prince is deade, and before a new can be choſen, the whole ſtate remaineth in a very ANARCHIE, without kinge, or any kinde of gouernement, like a ſhippe without a Pilote in hazarde to be caſt awaye with euery
+<pb n="23" facs="tcp:151082:16"/>
+winde: Then may you ſee all lewdneſſe, and li<g ref="char:EOLhyphen"/>centiouſneſſe ſet at libertie: Theeues robbe by the highe way ſide without puniſhment, Mur<g ref="char:EOLhyphen"/>derers commit their treaſons without controll<g ref="char:EOLhyphen"/>ment. For the firſt thing that is done <hi>Sede vacante</hi> is to breake open the priſons, kill the iâylors, reuenge iniuries, oppreſſe the poore with all inſolent, and vniuſt meanes. As we reade that the MAMMELVCS were wont to doe ſacking, and ſpoiling the poore people of EGYPTE whileſt their SOVLDANE was a chooſing. And this Impunitie of vice for the moſt parte laſteth vntill ſuch time, as the ELECTORS doe fall to agreement: which happeneth not ſome times in a yeare or twaine, otherwhiles not in tenne. The Empire of Germanie laie voide 18. yeares together after the death of th'Emperor VVIL<g ref="char:EOLhyphen"/>LIAM Earle of Holande: The Sea of ROME after the death of CLEMENT the fifte remai<g ref="char:EOLhyphen"/>ned two yeares, and a halfe without any Pope: after NICHOLAS the third three yeares: after Pope IOHN fiue yeares: and ſometimes the Sea hath bene vacant tenne yeares together. In all the which time a Romane coulde not ſtirre out of his dores without daunger: a ſtranger could not trauaile on the highe wayes without perill
+<pb n="24" facs="tcp:151082:17"/>
+of his life. And at this daye there are ſo many FVORVSCITI vpon the borders, as that no man will ryde betwene ROME, and NAPLES without the PROCACCIO, and 40. or 50. horſe in his companie: VVheras in euery other parte of ITALIE that I haue bene in (and I haue bene in the moſt parte,) a man may ryde ſafly with his purſe in the palme of his hande. But you will ſaye, that there may be therefore in time of vacation, A gouernour apointed to adminiſter Iuſtice, and to puniſh vice: So ſhall all this tem<g ref="char:EOLhyphen"/>peſtuous Sea be quieted, &amp; all thoſe miſchiefes remedied. I graunt well: but yet with a greater<note place="margin">How daun<g ref="char:EOLhyphen"/>gerous a go<g ref="char:EOLunhyphen"/>uernour is, Sede va<g ref="char:EOLhyphen"/>cante.</note> miſchiefe. For if the gouernement be com<g ref="char:EOLhyphen"/>mitted vnto one only with abſolute power, and authoritie to rule, and commaunde vntill the Prince be elected: let me aſke you, who ſhall lette ſuch a one, as hath the lawe in his owne handes to make him ſelfe if he liſte of a gouer<g ref="char:EOLhyphen"/>nour a king: as GOSTAVVS father vnto IOHN kinge of Swethlande did. If he haue Legions of ſouldiers at his commaundement, who ſhall let him from making him ſelfe of a Conſull for a time, a Dictator for euer: as IVLIVS CAESAR did. Againe if the gouernement be laide du<g ref="char:EOLhyphen"/>ring th'Election vpon ſundry perſones, as it is
+<pb n="25" facs="tcp:151082:17"/>
+now vſed in POLONIA, and as it was wonte to be ſome times in ROME: The daunger is no leſſe, leſt the mightieſt of them, that haue ſuch power laie not handes vpon the Fortreſſes, and ſtrongeſt holdes of the Countrey: As POM<g ref="char:EOLhyphen"/>PEIO COLONNA, and ANTONIO SAVELLA did, who in the like caſe ſeazed vpon the CAM<g ref="char:EOLhyphen"/>PIDOLLE, crying vnto the people of ROME, Libertie, Libertie. So we ſee that the woundes are well nighe incurable, which ſuch countries receiue at the death of their Princes: The paines are no leſſe, and the daungers as great, or grea<g ref="char:EOLhyphen"/>ter, which they ſuſtaine in chooſing of their new kinges. As what a worlde of trouble was that<note place="margin">Troubles and daun<g ref="char:EOLhyphen"/>gers inci<g ref="char:EOLhyphen"/>dente vnto Elections.</note> of late yeares in the kingdome of POLONIA about th'Election, when the Pollackes were faine to ſende into Fraunce (ſo many miles, thorough ſo many countryes) for the Duke of Anioue (now HENRY the third of Fraunce) to be their king: and what ſucceſſe all their paines, and trauailes had who knoweth it not? Did not the Duke ſo ſoone, as his brother CHARLES dyed, &amp; that a greater kingdome fell vnto him, leaue them, and retourne into his owne coun<g ref="char:EOLhyphen"/>trey: (as right and reaſon would, that a man ſhould be more carefull of his owne Nation,
+<pb n="26" facs="tcp:151082:18"/>
+then of ſtrangers.) And the like did LODOVIKE kinge of Hungarie before him, who being cho<g ref="char:EOLhyphen"/>ſen, and crowned kinge of Polonia, retourned ſtraight after into his owne countrey: leauing a Lieftenante behinde him to gouerne the Po<g ref="char:EOLhyphen"/>lonians withall. A thing odious vnto men of valour, and greuous vnto all free people: when they can not ſee the face, and countenance of their Soueraine Prince: but muſt be controlled with the pride, and ouerlayed with the coue<g ref="char:EOLhyphen"/>tuouſneſſe of inferiour Magiſtrates. The which burden how vnwillingly it is borne MILAN, NAPLES, SIENA, SICILE, and FLANDERS to their coſt, and paine haue knowen.</p>
+                  <p>But let vs imagine that a Prince, hauing two kingdomes, one by ſucceſſion, an other by Ele<g ref="char:EOLhyphen"/>ction, and being lothe to leaue either of them, will make what ſhifte he can to be perſonally reſidente vpon them both: (the which he can hardly doe, excepte they be very neere adioy<g ref="char:EOLhyphen"/>ning one to the other:) who doubteth then, but that he will make (if he can) one kingdome of them both, or of both kingdomes one MO<g ref="char:EOLhyphen"/>NARCHIE. AS CHARLES the fifth, would haue done with the countryes of Germanie, hauing brought his ſonne PHILIPPE, purpoſely into
+<pb n="27" facs="tcp:151082:18"/>
+thoſe partes, for to haue made him king of the Germanes, if the french kinge HENRY the firſt had not by aiding of them, diſtourned him from that his pretended and commenced courſe. But though th'Emperour was of that his purpoſe ſo diſapointed, and could not be ſuffred to vnite the countryes of Germany vnto his other king<g ref="char:EOLhyphen"/>domes: yet it is well knowen, that he loſt not all the benefitte of his Election, nor all his la<g ref="char:EOLhyphen"/>bour, and time in vaine, which he beſtowed in thoſe partes. But ſo long as he liued, and ſate in the ſeat of th'Empire, their are many that can yet remember, how he made his Harueſt of them, and rept what commodities he could of the ſaid countryes, drawing forth of them from time to time, both men, money, and Muni<g ref="char:EOLhyphen"/>tion to ſerue his other priuate purpoſes withall. As in his Italian warres againſt the French king FRANCES the firſt he had at one time vnder the conducte of CHARLES of BORBONE his Lieftenant 18. thouſand at the leſt of the Dutch Nation: By meanes of whome, and of a few Spagniardes more, he droue the French men out of all their poſſeſſions in Lombardie, he impatroned him ſelfe of the Dukedome of MI<g ref="char:EOLhyphen"/>LANE: he impropriated to his one vſes the Ci<g ref="char:EOLhyphen"/>ties
+<pb n="28" facs="tcp:151082:19"/>
+of PARMA, and PIACENZA: he altered for his owne aduantage the ſtates of FLORENCE, SIENA, and of GENOVA: he ſacked ROME: and in briefe, by meanes of the Germaines he ſubdued and brought all Italie vnder his yoke. In like maner when he went to ALGIERS (An enterpriſe which could no kinde of waye bene<g ref="char:EOLhyphen"/>fit the Germaine Nation, no nor yet any whit the Eſtate of Chriſtendome, but tending alto<g ref="char:EOLhyphen"/>gether vnto the benefit, and aduancement of his owne countryes of Spaine) he vſed not onely the bodies, but the goods, and ſubſtance alſo of the Germaines: cauſing them by waye of a Counſell or Diette (which he called pur<g ref="char:EOLhyphen"/>poſely to the ſame end) to contribute vnto the<note place="margin">Glorious in the ſetting forth ther<g ref="char:EOLhyphen"/>of, though not in the fequelle, &amp; ſucceſſe of the ſame.</note> charges of that his glorious voiage. He was therefore a Prince, if you regarde the greatneſſe of his minde, the hautineſſe of his Enterpriſes, the number of his victories, the hugeneſſe of his poſſeſſions, his valour, his wiſedome, and his temperance, he was (I ſay) a Prince moſt wor<g ref="char:EOLhyphen"/>thie, of that fame, and great name, which he caried in the mouth, and th'opinio<g ref="char:cmbAbbrStroke">̄</g> of the world. But if you looke into his doinges, and where<g ref="char:EOLhyphen"/>to they tended, you ſhall finde, (and I haue heard an honorable perſonage that knew him
+<pb n="29" facs="tcp:151082:19"/>
+well, and moſt of his proceedinges, affirme the ſame) that he was the leſt beneficiall Emperour vnto the common weale of Chriſtendome, and the moſt hard, and heauy Prince vnto the ſtates of Germanie, of a great many others, that went before him, and of any that as yet are come af<g ref="char:EOLhyphen"/>ter him. For it appeareth that he directed all his actions vnto the ſtabliſhing, and ſtengthning of thoſe Eſtates onely, which he knew ſhould neceſſarily deſcend vnto his lawfull and lyneall heyres after him, litle or nothing regarding the ſucceſſion of them, which were to be elected at the will and pleaſure of others. VVherefore as he fetched both men<g ref="char:punc">▪</g> and money out of Ger<g ref="char:EOLhyphen"/>manie, for to ſerue his other tournes withall a<g ref="char:EOLhyphen"/>broade: ſo tooke he from thence alſo (A thing which I my ſelfe haue hard much lamented by the Germaines) the beſt parte of all their Mu<g ref="char:EOLhyphen"/>nition: As out of VVITTEMBOVRGE (a ci<g ref="char:EOLhyphen"/>tie of the Duke of SAXON) he tooke two hun<g ref="char:EOLhyphen"/>dreth and twentie peeces of great Ordinance: a hundreth out of GOTTA: from the LAN<g ref="char:EOLhyphen"/>GRAVE alſo he had 200. peeces: and out of STRAVSBOVRGH, he tooke all the beſt, that they had: Sending thereof 50. peeces vnto NAPLES, other 50. to MILANE, and 400. into
+<pb n="30" facs="tcp:151082:20"/>
+FLANDRES: he did the like alſo with many other their Dutche Commodities, tranſpor<g ref="char:EOLhyphen"/>ting them, either into SPAINE, or into his coun<g ref="char:EOLhyphen"/>tries of AVSTRICH, for to inlarge, and make riche his owne houſe and poſteritie withall. And this is a thing common vnto all elected Princes (that haue Eſtate but for terme of Life) careleſly to co<g ref="char:cmbAbbrStroke">̄</g>ſume the Treaſores of the coun<g ref="char:EOLhyphen"/>trey, diſſipating the publicke demaines, and conuerting them into priuate menshandes, ei<g ref="char:EOLhyphen"/>ther of their owne fauorites, or of their kinſe<g ref="char:EOLhyphen"/>folkes.<note place="margin">How coun<g ref="char:EOLhyphen"/>tryes are impoueri<g ref="char:EOLhyphen"/>ſhed by Princes elected.</note> As of the Cities, and Prouinces belon<g ref="char:EOLhyphen"/>ging vnto the Sea of ROME, the Popes haue made awaye almoſt the one halfe for the ad<g ref="char:EOLhyphen"/>uauncement of their owne priuate houſes. Pope SIXTVS the fourth of that Name, after the death of GVIDIBALDO DE MONTEFEL<g ref="char:EOLhyphen"/>TRO Duke of VRBYNE, procured the duke<g ref="char:EOLhyphen"/>dome vnto his kinſeman de ROVERE. The which dukedome (not long after) Pope LEO the tenth, tranſlated from FRANCESCO MA<g ref="char:EOLhyphen"/>RIA DE ROVERE vnto his Nephew LOREN<g ref="char:EOLhyphen"/>ZO DE' MEDICI. Pope ALEXANDER the ſixte gaue REGIO, and MODENA (two good Townes in Italie) in dowrie with his daughter vnto ALFONSO Duke of FERRARA. CLE<g ref="char:EOLhyphen"/>MENT
+<pb n="31" facs="tcp:151082:20"/>
+the ſeuenth, aduanced his Nephew ALE<g ref="char:EOLhyphen"/>XANDRO vnto the Dukedome of Florence. And PAVLVS tertius the Romane exalted his houſe of FARNESE vnto the Dukedome of PARMA, and PIACENZA: All which Eſtates were either conueyed out of the Eccleſiaſticall Monarchie, or by the meanes, and charge ther<g ref="char:EOLhyphen"/>of procured. As GVICCIARDINE in his ſto<g ref="char:EOLhyphen"/>rie of the warres of ITALIE reporteth that the forenamed LEO the tenth, what with warring againſt the duke of VRBYNE, and with main<g ref="char:EOLhyphen"/>teining the coſtlineſſe of his ſiſter MAGDALE<g ref="char:EOLhyphen"/>NA, and his owne pride, and prodigalitie, he left the Church worſe by 40. thouſand Dueates a yeare, then he found it: beſides the iewells, and ornamentes of the pontificall treaſor, which he engaged. In the like maner all Temporall Princes (I meane ſuch as are elected) when they ſee that they can not leaue their eſtates vn<g ref="char:EOLhyphen"/>to their Children, they ſeeke by ſale, or by gifte to make the beſt commoditie of them during their owne liues. As RODVLPHVS th'Empe<g ref="char:EOLhyphen"/>rour for a ſumme of money exempted all the Cities of TOSCANE out of the ſubiection of th'Empire. And ROBERT OF BAVIER gaue three Imperiall cities at one time vnto his ſonne
+<pb n="32" facs="tcp:151082:21"/>
+FREDERIKE, he gaue alſo the Liberties vnto NVRENBOVRGE. As OTHO the third did vn<g ref="char:EOLhyphen"/>to ISNE. LODOWIKE of BAVIER did the like vnto the citie of EGRE. HENRY the firſt ſoulde what he coulde, whereby th'Empire was brought ſo low, as that CHARLES duke of Bur<g ref="char:EOLhyphen"/>gony was able to make warre againſt the whole bodie of the ſame. If then an Italian will not ſticke to weaken the Popedome, (the pride and ſtrength of his Nation:) nor a Germaine to de<g ref="char:EOLhyphen"/>miniſh the power of th'Empire, (a Dignitie which the Germanes pretende to be dewe, and proper vnto them onely:) Much leſſe may we thinke that a Hungarian will obſerue any more reſpecte in Polonia, being choſen vnto that kingdome: or a Spagniarde vſe any more cour<g ref="char:EOLhyphen"/>teſy in Italy, being elected vnto the Popedome: But rather it is to be thought that they, ſeeing them ſelues called by this vnorderly way of E<g ref="char:EOLhyphen"/>lection vnto new gouernementes, will ſeeke for the better ſtabliſhing of the ſame, to alter in what they can the ſtate, and courſe of the coun<g ref="char:EOLhyphen"/>tryes, whervnto they are ſo called: tourning their lawes, into theirs: their cuſtomes, into theirs: their Religion, into their owne Religion. For commonly we ſee that all men are of that
+<pb n="33" facs="tcp:151082:21"/>
+nature to thinke alwayes their owne religion beſt, their owne cuſtomes comme<g ref="char:cmbAbbrStroke">̄</g>dableſt, their owne lawes ſoundeſt: deſiring to bring and in<g ref="char:EOLhyphen"/>duce al others vnto the ſame lawes, cuſtomes, &amp; religio<g ref="char:cmbAbbrStroke">̄</g> that they them ſelues are of. The Turke would haue all his people to acknowledge MA<g ref="char:EOLhyphen"/>HOMET: The kinge of Spaine all his ſubiectes to holde with the POPE: The Greekes thought all other nations barbarous in reſpecte of them ſelues. The Italians likewiſe in theſe dayes are not aſhamed to call all <hi>Oltramontani</hi> (vs that are on this ſide the Alpes) <hi>barbari,</hi> as though none knew what Ciuilitie mente but they. The Ve<g ref="char:EOLhyphen"/>netians will ſay, when they heare a man ſpeake in a language which they vnderſtand not, <hi>Mo! parlate Chriſtiano,</hi> as though no language were good or chriſtianlike but theirs. So, VVIL<g ref="char:EOLhyphen"/>LIAM the Conquerour ſought to ſurpreſſe, and extinguiſh our Engliſh ſpeeche, commaunding all our lawes to be writte<g ref="char:cmbAbbrStroke">̄</g> in his owne language, as it appeareth alſo by the termes of our paſti<g ref="char:EOLhyphen"/>mes (of hawking, hunting, karding, dycing, Tennis, and ſuch like,) which for the moſt parte doe yet remaine in the NORMANE tongue. VVherfore it is euident that all elected Princes, which come out of forreine Countryes (in the
+<pb n="34" facs="tcp:151082:22" rendition="simple:additions"/>
+maner as we here meane (to the ende to rule, and raigne onely, and not for loue, alliance, or freindſhip ſake) will in what lyeth in them, both for their greater glorie, &amp; for the better ſtrength of their Eſtates, ſeeke to change the Religion, lawes, cuſtomes, and language of the places whervnto they are ſo elected. But you will ſay, that your meaning is not to fetch your Prince ſo farre of, but to haue him neerer home euen of the ſame countrey, wherof he is to reigne: becauſe you will be ſure that he ſhall neither change cuſtomes, not bring in any language. You ſay well, but let me aſke then: who ſhall haue the chooſing of him there at home in his owne countrey? If the common people chooſe him, you may looke for nothing elſe, but fa<g ref="char:EOLhyphen"/>ctions, ſeditions (<hi>Tot capita, tot ſententiae</hi>) ſo ma<g ref="char:EOLhyphen"/>ny men, ſo many kinges. If he be choſen by the Souldiers, as the Emperours were other<g ref="char:EOLhyphen"/>whiles of ROME, then ſhall he not be allowed of by the Senatours: if elected by the Se<g ref="char:EOLhyphen"/>natours: then can he not be receiued of the Souldiers. VVhich inconueniences being of later yeares better wayed of by the wiſer, It was thought expedient, that the Election of th'Em<g ref="char:EOLhyphen"/>pire ſhould be reduced vnto a certaine num<g ref="char:EOLhyphen"/>ber
+<pb n="35" facs="tcp:151082:22"/>
+of ſeuen Princes (who, becauſe the Pope as then GREGORIE the fifth, was a SAXON borne were all appointed of the Germaine na<g ref="char:EOLhyphen"/>tion: Namely the duke of SAXON, the Counte PALLATINE, the Marcheſe of BRANDIN<g ref="char:EOLhyphen"/>BOVRGE, the three Biſhoppes of MAGANZA, COLLENE, and TREVERIE, and the ſeuenth (to waye downe the ballances) the kinge of BOEMIA.) And yet for all that the Electours were neuer ſo few: the factions, and ciuill diſ<g ref="char:EOLhyphen"/>cordes<note place="margin">Difficulties and diſſen<g ref="char:EOLhyphen"/>tions, in the chooſing of Princes.</note> that enſued were neuer a whit the leſſe. LEWIS of BAVIER, and ALBERTE of AV<g ref="char:EOLhyphen"/>STRIKE were both choſen Emperours at one time: whervpon they continued 18. yeares in warres one againſt the other. In like maner the Colledge of the Cardinalles haue bene (as is before ſaide) ſometimes two, ſometimes three yeares together in chooſing of one Pope: And at an other time they haue choſen three at a clappe, and often times two together. VVher<g ref="char:EOLhyphen"/>fore they are now faine to ſhutte them ſelues into the CONCLAVE of Saint Peters Pallaice: there to remaine vntill the two thirdes of them do fall to agreement. As it is alſo more ſtraight<g ref="char:EOLhyphen"/>ly obſerued at MALTA (now called VALET<g ref="char:EOLhyphen"/>TA) in the chooſing of the great Maiſter of the
+<pb n="36" facs="tcp:151082:23"/>
+order of Saint IOHN. For there the 24. Elec<g ref="char:EOLhyphen"/>tours (appointed by the KNIGHTES of the great Croſſe) are walled into a ſtrong place, where within a certaine time limited vnto them they muſt without all delaye, chooſe one that is not of their number. So we ſee, that the dif<g ref="char:EOLhyphen"/>ficulties,<note place="margin">A number of Popes, &amp; Emperour; murdered about their Election.</note> and diſſentions which proceede from ſuch Elections are infinite: The Murders alſo and maſſacres that do inſue of them are no leſſe frequent both amongeſt th'Eccleſiaſticall Pre<g ref="char:EOLhyphen"/>lates, and temporall Princes. Of Popes there haue bene at the leaſt 22. beheaded about their Election (as the Regiſters of the VATTI<g ref="char:EOLhyphen"/>CANE doe certifie) beſides a number of Car<g ref="char:EOLhyphen"/>dinalles, and of common people that for the like cauſe haue gon the ſame waye with them. VVe reade that in the Primatiue Church there were 600. Romanes ſlaine at one time about the chooſing of DAMASVS, and VRSINVS. Of temporall Princes there haue bene within theſe 360. yeares (ſince th'Empire fell into the ſubiection of the Lordes Electours) eight, or nine EMPEROVRS ſlaine and poiſoned. Of 15. SOVLDANES that haue bene choſen kinges of EGYPTE ſeuen of them dyed with the ſworde. Of Romane Emperours after the death of AV<g ref="char:EOLhyphen"/>GVSTVS
+<pb n="37" facs="tcp:151082:24"/>
+there were ſeuen all in a rowe murde<g ref="char:EOLhyphen"/>red, and three of them in one yeare. It would greeue me to rehearſe, and weary you to heare all the piteous examples, which might be reci<g ref="char:EOLhyphen"/>ted in this behalfe: wherof both Engliſh, La<g ref="char:EOLhyphen"/>tine, and Italian hiſtories are euery where full. Theſe few may ſuffice to ſhew what ſlaughters, Murders, Maſſacres haue bene co<g ref="char:cmbAbbrStroke">̄</g>mitted about<note place="margin">The benefit of Succeſ<g ref="char:EOLhyphen"/>ſion.</note> the chooſing of Princes. Neither could there any order be found, either for the ſauftie of a kinge, or for the quietneſſe of a kingdome, vn<g ref="char:EOLhyphen"/>till ſuch time, as a lawfull ſonne, or ſonne made by Adoption, ſucceded vnto his father without<note place="margin">Kingdomes aſſured by meanes of Succeſſion.</note> any further Election. As TIBERIVS, TITVS, TRAIAN, ADRIAN, ANTONINVS PIVS, MARCVS AVRELIVS, who all ſucceded pro<g ref="char:EOLhyphen"/>ſperouſly one vnto th'other in the Romane Em<g ref="char:EOLhyphen"/>pire. The Germaines alſo (for all their great Titles of Election) are faine at the laſt to flye vnto this refuge and to fetche their ſauftie, and quietneſſe from Succeſſion: Suffering the houſe of AVSTRIKE theſe hundreth, and three ſkore yeares ſolely, and ſucceſſiuely to poſſeſſe th'Em<g ref="char:EOLhyphen"/>pire. As after SIGISMONDE, FREDERIKE, then MAXIMILIAN, then CHARLES the fifth, then FERDINANDE, then MAXIMILIAN the
+<pb n="38" facs="tcp:151082:24"/>
+ſeconde, and ſo vnto RADVLPHE who now raigneth. In POLONIA likewiſe, BOHEMIA, HONGARIE &amp; DENMARKE, where the ſtates ſtand ſo much vpon their Priuileges, they are glad, and faine (of later yeares) for the auoi<g ref="char:EOLhyphen"/>ding of ciuill warres, and other of the aforeſaid inconueniences to acknowledge the benefit of this Succeſſion: chooſing for the moſt part him that is next of the blood Royall, and next of kinne vnto the predeceſſed kinge. So precious a thing it is, as they that hate it, are conſtrayned to ſeeke it: And they that haue it, are glad to holde it. SPAINE, NAPLES, CICILLE, NA<g ref="char:EOLhyphen"/>VARRA, SCOTLAND, and FRAVNCE alſo (whoſe Lawe SALIKE for ought, that I can ſee is nothing elſe but a limited, or nice kinde of Succeſſion<g ref="char:punc">▪</g>) haue not for theſe many yeares knowen any other kinde of gouernement. But of all nations there is none that more amplie<note place="margin">How Suc<g ref="char:EOLhyphen"/>ceſſion is tendered in England.</note> hath enioyed it, and which doth more willing<g ref="char:EOLhyphen"/>ly reteine it then our owne. Seeing therefore that Lineall Succeſſion is ſo ſure a foundation, as all good kingdomes both do, and may bold<g ref="char:EOLhyphen"/>ly builde theron: And contrarily ELECTION ſo weake a ſande or rather ſo daungerous a Sea, as it is able to ſinke the talleſt ſhippe of Citie,
+<pb n="39" facs="tcp:151082:24"/>
+or Countrey that ſaileth therin: it is good rea<g ref="char:EOLhyphen"/>ſon that in this our diſcourſe of ROYALL MO<g ref="char:EOLhyphen"/>NARCHIE (as we deſire to frame the ſame the beſt, and the moſt perfecte common weale) we embrace the one, as a ſure grounde, and ſhunne the other as a moſt daungerous ſande, preferring Succeſſion before Election, and con<g ref="char:EOLhyphen"/>ſeque<g ref="char:cmbAbbrStroke">̄</g>tly before all the other forenamed kindes of kingdomes: the which all are either kindes of Election, or elſe they are of leſſe impor<g ref="char:EOLhyphen"/>tance, and ſuch as are not to be eſtemed for their owne worthyneſſe, but for ſome Neceſſi<g ref="char:EOLhyphen"/>tie ſake. As where Succeſſion faileth, that there is none lefte of the bloode Royall mall, nor fe<g ref="char:EOLhyphen"/>mall to inheritte the Crowne, then men are faine to goe to drawing of Lottes, to Neyinge of horſes, to chooſing the Nobleſt, the wiſeſt, the Eldeſt, the Mightieſt, the Richeſt. But the beſt, and moſt Royall Prince is not to receiue his Scepter by any ſuch happe, or hazarde of fortune (as DARIVS did his:) Nor to come to his kingdome by the vncertaintie of voices (as all choſen Princes doe:) Nor yet by Gifte, by Cuſtome, by Pollicie, or by Conqueſt (as it hath bene ſaide that kinge IVBA, Duke CO<g ref="char:EOLhyphen"/>SIMVS, and many other Princes did come to
+<pb n="40" facs="tcp:151082:25"/>
+theirs:) But he is to come vnto his Crowne, and kingdome firſt, and principally by the grace of GOD, and ſecondarily by the waye of law<g ref="char:EOLhyphen"/>full, and Lineall SVCCESSION.</p>
+                  <p>It followeth that we ſpeake of the maner of eſtate of this moſt ROYALL MONARCHIE: and beſt kinde of kingdome: (<hi>Come sta</hi> how, and in what caſe it ſtandeth, as touching the Power, and authoritie appertaining thervnto.) For it is not ſufficient that ſo ROYALL a Prince be deſcended Lineally, and lawfully into his kingdome: But he muſt alſo poſſeſſe, and exer<g ref="char:EOLhyphen"/>ciſe ſuch ROYALL, and princely Power therin, as is moſt fitte for his worthyneſſe, and for his ſubiectes happyneſſe: Neither in ſo extreame maner, as to make A god of him ſelfe (as ALE<g ref="char:EOLhyphen"/>XANDER the great would haue done,) and ſlaues of his vaſſalles (as the Great TVRKE at this daye doth:) Neither yet in ſo ſlender ſorte, as to haue the ſworde caried after him (as the Duke of VENICE hath,) and to be but a litle better, then a ſipher, or ſhadowe of a Prince.</p>
+                  <p>
+                     <note place="margin">What pow<g ref="char:EOLhyphen"/>er apper<g ref="char:EOLhyphen"/>taineth vn<g ref="char:EOLhyphen"/>to a Royall Prince.</note>He is for to haue therefore (by the grace, and Permiſſion of Almightie God) that Power, which the Greekes call <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>: the Latines MAIESTATEM: Th'Italians SIGNORIA: The
+<pb n="41" facs="tcp:151082:25"/>
+Frenchmen SOVVERAINETE: That is, Power full and perpetuall ouer all his ſubiectes in ge<g ref="char:EOLhyphen"/>nerall, and ouer euery one in particular. Not to rule for a yeare onely, as the Conſulles of ROME did: Nor for two yeares, as the Dukes of GENOVA doe: Nor for three, as the VICE<g ref="char:EOLhyphen"/>ROYES of NAPLES: or for nine, or ten yeares, as the great Archon of ATHENES did: Not to be DICTATOVR for a daye onely, as MA<g ref="char:EOLhyphen"/>MERCVS<note place="margin">A Royall Prince is to rule with<g ref="char:EOLhyphen"/>out limita<g ref="char:EOLhyphen"/>tio<g ref="char:cmbAbbrStroke">̄</g> of time.</note> was: Nor for eight dayes, as SERVI<g ref="char:EOLhyphen"/>LIVS PRISCVS: or for fifteen, as CINCIN<g ref="char:EOLhyphen"/>NATVS: No nor yet for fifteen yeares, as SIL<g ref="char:EOLhyphen"/>LA had gotten it graunted vnto him by a Lawe to be Dictatour foureſkore yeares (although he raigned but foure:) and then after the terme of yeares expired, to render vp his gouerne<g ref="char:EOLhyphen"/>ment vnto an other, perhappes vnto a ſtranger, perhappes vnto his enemie: But his Power ſhall laſt (by Gods grace) perpetually: firſt during his owne life in him ſelfe, and then after his death in his ſonnes, and ſucceſſors.</p>
+                  <p>Neither is he countable of ſuch his gouerne<g ref="char:EOLhyphen"/>ment,<note place="margin">A Royall Prince is not Coun<g ref="char:EOLhyphen"/>table vnto Any.</note> (ſauing to God, and his Conſcience) elſe not vnto any other: in ſuch forte, As LE<g ref="char:EOLhyphen"/>GATES, LIEFTENANTES, PRESIDENTES, &amp; REGENTS are, who though they haue autho<g ref="char:EOLhyphen"/>ritie
+<pb n="42" facs="tcp:151082:26"/>
+ſometimes during their liues, yet are they to render accoumpte vnto thoſe which gaue them the ſame. The DOGES of VENICE, if they gouerne not well, are depoſed by the SI<g ref="char:EOLhyphen"/>GNORIE of the gentlemen: as TEODATVS, and GALLA of MALOMOCCO were bani<g ref="char:EOLhyphen"/>ſhed, and had their eyes putte out, becauſe they ruled to Lordly. the Gouerners of BOLOGNA LA GRASSA, when they goe out of their of<g ref="char:EOLhyphen"/>fice, are bounde to render accoumpte vnto two SYNDICI: The Dictators of ROME were forced by the TRYBVNES to render reaſon vn<g ref="char:EOLhyphen"/>to the People. The Regentes of SCOTLANDE, the Lordes Protectors of ENGLAND, although they rule neuer ſo highly during the minoritie of their Princes: Yet we ſee that after they are out of their Offices, they are conſtrained to aunſwere vnto many oppoſitions. There was neuer greater, and more abſolute Power graun<g ref="char:EOLhyphen"/>ted vnto any ſubiecte, then was by CHARLES the ninth, vnto his brother HENRY Duke of ANIOVE, when he made him his Lieftenant Generall, and perpetuall ouer all his domi<g ref="char:EOLhyphen"/>nions: And yet was there in th'ende of his let<g ref="char:EOLhyphen"/>ters patentes this Clauſe appoſed <hi>Tant qu'il nous plaira,</hi> to ſignifie that the Dukes authoritie was
+<pb n="43" facs="tcp:151082:26"/>
+both countable, and reuocable at the will and pleaſure of the kinge the giuer. Our Prince<note place="margin">A Royall Prince is not to de<g ref="char:EOLhyphen"/>pende vpon any.</note> therefore is not to receiue his power from any (excepte from God the giuer of all Power:) For if he receiue it from any other higher Prin<g ref="char:EOLhyphen"/>ce, then is he not the Principall, and ſupreame Magiſtrate, but there is an other higher, and greater then he. For as honour dependeth more of the giuer, then of the receiuer: So likewiſe that Power is greateſt, from whence the others are deriued. But our Prince, who is the Image of God on Earth, and as it were <hi>Vn minor eſſempio</hi> of his almightie Power, is not to acknowledge any greater then him ſelfe: nor any authoritie greater then his owne. VVherefore as he is<note place="margin">A Royall Prince is not ſubiecte vnto any of his owne Countrey.</note> not to receiue his Power from any: ſo is he nei<g ref="char:EOLhyphen"/>ther to be ſubiect vnto any higher Power, ei<g ref="char:EOLhyphen"/>ther at home, or abroade: Though ſome doe mainteine that a Prince ought to be ſubiect vn<g ref="char:EOLhyphen"/>to the ſtates and Peares of his Realme: as the kinges of LACEDEMON were to the EPHORI, An Opinion (if it be not well tempered, and conueniently limited) moſt preiudiciall vnto th'eſtate of a MONARCHIE: peruerting, and conuerting the ſame into a meere ARISTO<g ref="char:EOLhyphen"/>CRATIE: Much leſſe is he ſubiecte in any thing
+<pb n="44" facs="tcp:151082:27"/>
+vnto the Multitude of the common people: who as they haue more authoritie are for the moſt parte more inſolente, and more diſpoſed vnto rebellion. VVherefore in all wel ordained kingdomes theſe haue no other then a voice SVPPLICATIVE, thoſe a voice DELIBERA<g ref="char:EOLhyphen"/>TIVE, and the Prince onely a voice DEFINI<g ref="char:EOLhyphen"/>TIVE.</p>
+                  <p>But ſome will aſke, if this great MONARCHE of ours ſhall not be ſubiecte vnto the Lawes, Cuſtomes, and Priuileges of the Countrey where he gouerneth: vnto the othe which he taketh at his entrance: vnto ſuch couenantes, and promiſes as he maketh vnto his people. Vnto whome we aunſwere that our Prince is ſubiect vnto lawes both ciuill, and common,<note place="margin">How a Prince is ſubiect vn<g ref="char:EOLhyphen"/>to the Lawes.</note> to cuſtomes, priuileges, couenantes, and all kinde of promiſes, So farre forth as they are agreable vnto the lawe of God: Otherwiſe we thinke that he is not bounde to obſerue them. VVherein we neither diminiſhe the libertie of the ſubiecte, ſuppoſing all lawes to be good, or ought to be good: Neither doe we inlarge to much the Power of the Prince, as to make him lawleſſe, ſubiect neither to God his lawe, nor mans lawe. As ſome flaterers perſuade the
+<pb n="45" facs="tcp:151082:27"/>
+POPES, and EMPEROVRS that they are aboue all lawes, and may vſe the bodyes, and liues of their ſubiectes at their luſte and pleaſure, taking from them their landes, goodes, and liberties without right, or reaſon: a thing expreſſely con<g ref="char:EOLhyphen"/>trarie vnto the worde of God (Thou ſhalt not couet thy neighbours houſe &amp;c.) and a doc<g ref="char:EOLhyphen"/>trine moſt pernicious vnto Princes, who puffed vp with ſuch opinions ſhould take their courſe vnto a Tyrannicall kinde of puiſſance, making their couetouſneſſe confiſcation, their loue A<g ref="char:EOLhyphen"/>dulterie, their hatred Murder: and as the lighte<g ref="char:EOLhyphen"/>ning goeth before the thunder, ſo they depra<g ref="char:EOLhyphen"/>ued with ſuch corrupted Councellers ſhould make the accuſation to goe before the faulte, and the condemnation before the tryall. From the which kindes of libertie, or rather licen<g ref="char:EOLhyphen"/>tiouſneſſe our ROYALL Prince ſhalbe as farre of, as he is free from all kinde of ſubiection both domeſticall, and forreine. For it is not<note place="margin">An abſolut Prince is not ſubiecte vnto any ſtranger.</note> enough for ſo worthy a kinge to be obeyed of his owne people at home, but he muſt be alſo well eſtemed of ſtrangers abroade: not onely beloued of his freindes, but honoured of his neighbours, and feared of his enemies. VVher<g ref="char:EOLhyphen"/>fore, as we haue ſaide already that he is not
+<pb n="46" facs="tcp:151082:28"/>
+ſubiect, or inferiour vnto any of his owne Na<g ref="char:EOLhyphen"/>tion: So is he neither to acknowledge any grea<g ref="char:EOLhyphen"/>ter then him ſelfe abroade. Kinge EVMENES, though he was but a poore Prince, and had but one onely Caſtell of PERGAMON vnder his power: yet when he came to capitulating with ANTIGONVS the greate kinge of ASIA, he would not yeelde one iote vnto him in prero<g ref="char:EOLhyphen"/>gatiue of honour: ſaying that, ſo long as he had his ſworde by his ſide, he knew no man greater then him ſelfe: and yet by his leaue he fetched his fier from the Romanes, who main<g ref="char:EOLhyphen"/>teined him in all his quarrelles both againſt ANTIGONVS, and againſt PHILLIPPE kinge<note place="margin">A Royall Prince nee<g ref="char:EOLhyphen"/>deth no Protection.</note> of MACEDONES. But our ROYALL Prince is not to ſhrewd him ſelfe vnder the ſhadow of an other, as EVMENES did vnder the Ro<g ref="char:EOLhyphen"/>manes: Nor to ſhield him ſelfe vnder any buckelar of Protection, as FERRARA doth vn<g ref="char:EOLhyphen"/>der FRANCE: BOLOGNA vnder the POPE: FLORENCE and LVCCA vnder the kinge of<note place="margin">A Royall Prince is not tribu<g ref="char:EOLhyphen"/>tarie vnto any.</note> SPAIGNE. Neither ſhall he paye tribute vnto any forreine Prince, as the Common weale of CARTHAGE, after it was ſubdued by SCIPIO AFRICANVS, did vnto the people of ROME. Neither yet any annuall penſion is he to paye,
+<pb n="47" facs="tcp:151082:28"/>
+as ſome great Princes of Chriſtendome haue done vnto the greate Turke: The Common weales of VENICE, GENOVA, RAGVSA for the countreyes they haue confining vpon him doe yet the like. And as not long ſince LEWIS th'leuenth of FRANCE payed 50. thouſand crownes a yeare vnto kinge HENRY the eight (of noble memorie) for to haue peace with him, and with our Nation. Much leſſe ſhall he be Liege Vaſſall vnto any, as the kinges of SCOTLAND were wonte to be vnto the kinges of ENGLANDE: The Dukes of BRITANNIE vnto the kinges of FRANCE. Neither ſhall he<note place="margin">The moſt Royall Prince hol<g ref="char:EOLhyphen"/>deth not in Fee or in Fealtie of any.</note> holde in Fee, or Fealtie of any, as moſt of the Cities in ITALIE doe of th'Empire, and the kingdomes of NAPLES, and SICILLE doe of the Pope: The Knightes of MALTA of the kinge of SPAINE: theſe giuing yearly a Faul<g ref="char:EOLhyphen"/>con, thoſe a white amblinge Geldinge, ſome one thing, ſome an other. VVhich all are cer<g ref="char:EOLhyphen"/>taine kindes of ſubiections, and ſpyces of Ser<g ref="char:EOLhyphen"/>uitude, carying with them a number of rightes, duties, honours, and reuerences, vnworthie of the dignitie of a ROYALL Prince. VVho muſt be as the Gramarians ſaye a Noune Subſtan<g ref="char:EOLhyphen"/>tiue able to ſtande of him ſelfe, without the
+<pb n="48" facs="tcp:151082:29"/>
+helpe, or aide of an other, without paying Tri<g ref="char:EOLhyphen"/>butes, doing Homages, ſwearing Fealties, and<note place="margin">Inconue<g ref="char:EOLhyphen"/>niences pro<g ref="char:EOLhyphen"/>ceding from Subiectio<g ref="char:cmbAbbrStroke">̄</g>s.</note> Loyalties vnto any forreine Prince. COSMVS Duke of FLORENCE (of late remembrance) might not be made kinge of TOSKANE, al<g ref="char:EOLhyphen"/>though Pope PIVS the fourth, had a good will to make him, Becauſe he helde his Cities, and Tounes of the Empire. VVherefore the Empe<g ref="char:EOLhyphen"/>rour hearing of his ſute: ſaide <hi>Italia non habet Re<g ref="char:EOLhyphen"/>gem, niſi Caſarem.</hi> The French kinge FRANCES the firſt of that name, for to let CHARLES the fifth, as then Archeduke of AVSTRIA from being choſen Emperour, ſhewed vnto the Elec<g ref="char:EOLhyphen"/>tours, how that the Imperiall Maieſtie ſhould be to much imbaſed, if they made of his vaſ<g ref="char:EOLhyphen"/>ſall their chiefe, and Souueraigne. VVhich made the ſaide CHARLES hauing after taken FRANCES priſoner (at the famous battaile fought in the Parke of PAVIA) that he would neuer condeſcende vnto his deliuerance, vntill he was firſt exempted by FRANCES from all kinde of Seruices, and Subiections which he owed vnto the Crowne of FRANCE for the Countreyes he helde of ARTOYS and FLAN<g ref="char:EOLhyphen"/>DERS. It ſeemeth ſo baſe a thing vnto the Ma<g ref="char:EOLhyphen"/>ieſtie of a ROYALL Prince, to become the
+<pb n="49" facs="tcp:151082:29"/>
+Liege man of an other: to ſweare Fayth, and Loyaltie vnto an other: ioyning his handes within the handes of an other: to fall downe on<note place="margin">Seruices annexed vnto the foreſaide Subiectio<g ref="char:cmbAbbrStroke">̄</g>s.</note> his knees as TIRIDATES kinge of ARMENIA did before NERO: to kiſſe the Threſholde of the dore, as PRVSIAS kinge of BITHINIA did when he entered into the Senate houſe of ROME: to call him ſelfe the Seruant of an other, as ASDRVBALL called him ſelfe the FACTOR, and PROCVRATOR of the people of ROME: Theſe (I ſaye) and ſuch like Indignities pro<g ref="char:EOLhyphen"/>ceeding from Protections, Tributes, Fealties, Loyalties, and the other kindes of the forena<g ref="char:EOLhyphen"/>med Subiections, are ſo much abhorring vn<g ref="char:EOLhyphen"/>to the Soueraignitie of a ROYALL, and abſo<g ref="char:EOLhyphen"/>lute Prince, as he will chooſe rather to parte from whole Countreyes, then to incurre, and indure ſuch indignities. VVherefore quarells were made againſt the kinges of England (her MAIESTIES moſt ROYALL predeceſſours) touching the Dukedomes of GVYENNE, and NORMANDIE, The Earldome of POITOV, and MVTTRELL, and many other goodly Poſ<g ref="char:EOLhyphen"/>ſeſſions, which they helde in FRANCE, be<g ref="char:EOLhyphen"/>cauſe they voucheſaued not to be bounde to doe Honours, and Homages for the ſame.
+<pb n="50" facs="tcp:151082:30"/>
+But no meruaile though great kinges can not abide Subiections whe<g ref="char:cmbAbbrStroke">̄</g> the Prince of ORANGE (this mans father) refuſed of the French kinge LEWIS th'eleuenth tenne times ſo much, as his Principallitie was worth, becauſe he would not be ſubiecte to Seruices, and Vaſſallties. CALISTENES alſo the Nephew of ARISTO<g ref="char:EOLhyphen"/>TLE, being but a priuate man, choſe rather to dye, then he would (according to the maner of the Perſians) fall downe proſtrate and adore ALEXANDER, as a God aboue the eſtate of man. And I haue harde how an Imbaſſadour for the VENETIANS at CONSTANTINOPLE, when he was to haue audience of the Great TVRKE, vnto whome he coulde not haue ac<g ref="char:EOLhyphen"/>ceſſe, but thorough a litle lowe place made of purpoſe, becauſe men ſhould come ſtoping, and kneeling vnto him: The VENETIAN Im<g ref="char:EOLhyphen"/>baſſadour, (ſuppoſing in him ſelfe the reuerend Hieneſſe of that eſtate,) creeped thorough the hole with his backe forewardes. A thing, which the GRAN SIGNOR can in no maner of waye abide to ſee a mans taile towardes him.</p>
+                  <p>But for to retourne vnto our moſt ROYALL Prince, we will conclude that he is not to doe Homage, or Honour vnto any, not to paye Tri<g ref="char:EOLhyphen"/>bute,
+<pb n="51" facs="tcp:151082:30"/>
+or Penſion vnto any, not to be ſubiect either at home, or abroade vnto any, not to holde in Fealtie, or in Loyaltie, by Protection, or by Commiſſion, nor for a ſhorte time or ſea<g ref="char:EOLhyphen"/>ſon: But to rule really, fully, and perpetually,<note place="margin">Concluſion of the Trea<g ref="char:EOLunhyphen"/>tice.</note> according as we haue in a generall maner hi<g ref="char:EOLhyphen"/>therto diſcourſed. I coulde wiſhe to ſpeake more particularly of the ROYALTIES, and prerogatiues belonging vnto the Maieſtie of a Soueraine Prince: as of his power, and au<g ref="char:EOLhyphen"/>thoritie in allowing, and diſallowing of maters propounded to be Lawes: in proclaming of warres, and concluding of Peace: in chooſing, and refuſing of Magiſtrates: in coyning and rating of money: in erecting of Fortreſſes: in graunting Pardons, Licences, Liberties, and Priuileges: &amp;c. But becauſe they are matters of more waight, and therefore doe require good aduiſement, and better authority: I thinke good to ſuſpende them vntill a more conue<g ref="char:EOLhyphen"/>nient time, or elſe to commende them vnto thoſe, that are of more approued Iudgement, and better warranted to deale with them. In the meane while I hope, that theſe fewe lines of ours concerning the maner, and forme of the beſt Common weale, ſhall not ſeeme al<g ref="char:EOLhyphen"/>together
+<pb n="52" facs="tcp:151082:31"/>
+impertinent to ſhew the Excellencie and Dignitie, the Power, and Maieſtie of ROY<g ref="char:EOLhyphen"/>ALL MONARCHIE. VVhereby all good ſub<g ref="char:EOLhyphen"/>iectes ſeeing the greatneſſe which God hath indued Princes withall, to be as it were his LIEFTENANTES to gouerne vs here vppon Earth, may reſpecte, and reuerence them with all humilitie: Serue, and obaye them with all Loyaltie: heare, and ſpeake of them with all honour.</p>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:151082:31"/>
+                  <p>PROVERBI VVLGARI, RACCOLTI IN DIVERSI LVOGHI D'ITALIA, ET LA maggior parte dalle proprie bocche de gl'Ita<g ref="char:EOLhyphen"/>liani ſteſſi.</p>
+                  <p>PER Carlo Merbury Gentil'huomo Inglileſe.</p>
+                  <p>ILQVALE NE FA PRESENTE DI COSÌ FATTA SVA INDVSTRIA à gl'amici, &amp; patroni ſuoi hono<g ref="char:EOLhyphen"/>rati, della lingua Italiana ſtudioſi.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:151082:32"/>
+                  <pb n="1" facs="tcp:151082:32" rendition="simple:additions"/>
+                  <head>A I NOBILI, ET ILLV<g ref="char:EOLhyphen"/>STRI SIGNORI DI CORTE, ET AL<g ref="char:EOLhyphen"/>tri gentil'huomini honorati, della lingua Italiana intendenti.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>O non sò (Signori Illuſtri) che luogo habbia trouato ne' vo<g ref="char:EOLhyphen"/>ſtri corteſi concetti quel mio precedente diſcorſo: ſe riguar<g ref="char:EOLhyphen"/>dando all'altezza del ſuo ſug<g ref="char:EOLhyphen"/>getto, voi deſiderate in me maggior iſperienza, e più ga<g ref="char:EOLhyphen"/>gliardo giudicio: ò ſe conſide<g ref="char:EOLhyphen"/>rando la fine, &amp; l'intentione di quello, vi contentiate della mia debita, quantunque de<g ref="char:EOLhyphen"/>bole induſtria. La mia iſperienza io confeſſo vera<g ref="char:EOLhyphen"/>mente eſſer piccioliſſima, sì come di perſona poco prattica nelle coſe de gli ſtati: &amp; quanto àl mio giudi<g ref="char:EOLhyphen"/>cio, non mene attribuiſco punto; conoſcendomi gio<g ref="char:EOLhyphen"/>uane di poche lettere, &amp; di men che mezzano inge<g ref="char:EOLhyphen"/>gno. Mà purè, poi ch'io mi ſon ingegnato d'ingagliar<g ref="char:EOLhyphen"/>dire, &amp; quella, &amp; queſto, &amp; tutte l'altre forze mie col deſiderio di moſtrar la mia debita diuotione verſo il fe<g ref="char:EOLhyphen"/>liciſſimo ſtato della noſtra Sereniſſima Principeſſa: Io ſpero, che voi Signori di Corte (I quali viuete nella viua &amp; continua contemplatione di quella ſua Maeſtà, in honor &amp; riuerenza di cui tendono quelli penſieri, &amp;
+<pb n="2" facs="tcp:151082:33"/>
+&amp; diſcorſi miei) ſpero dico, &amp; quaſi m'aſſicuro, che voi vi contentarete di fauorir à così fatta mia impreſa: non mirando già tanto alla dignità di quella (troppo alta per l'ale mie,) nè alla ſua difficultà (troppo peſante per le ſpalle mie,) mà alla diligenza, ſtudio, induſtria, &amp; al buon animo mio: di che ſe ben altro effetto non ne ſe<g ref="char:EOLhyphen"/>gue, nè altro vtile non riſulta al lettore (&amp; pure non tengo lo trattato ſia con modeſtia detto, affatto inuti<g ref="char:EOLhyphen"/>le,) ch'vna nuda ſignificatione della mia viua voglia: non è però, che la buona mente no<g ref="char:cmbAbbrStroke">̄</g> ſia da Dio atteſa, &amp; da voi tenuta in conto. Vi ſi preſenta ancora vn' altro parto della mia induſtria, il quale poi che non è mio figliuolo naturale, ma adottiuo, &amp; d'altre lingue che della mia leccato, (ſe ben uon d'altra mano, che dalla mia raccolto, veſtito, &amp; produtto in queſta luce) più arditamente velo raccommando: aſſicurandoui, che ſe vi degnate d'vſarlo, &amp; d'adoperarlo, egli vi farà di molti, &amp; molti ſegnalati ſeruitij. Egli vi moſtrerà creanze &amp; vſanze foreſtiere: vi darà ammaeſtramen<g ref="char:EOLhyphen"/>ti al viuer vtili, auertimenti al conuerſar conueneuoli: ſe v'occorre vſar ragionamento famigliare, egli vi ſarà à canto: ſe pùr v'accade entrar in qualche diſcorſo gra<g ref="char:EOLhyphen"/>ue, egli ſarà là anche preſente, ſempre miniſtrandoui qualche bel motto, ò qualche bel detto per confirmar le voſtre ragioni. Per conto poi di quella lingua, della quale voi (Signori, &amp; gentil'huomini giouani, al cui ſeruitio l'ho ſpetialmente indrizzato) vi delettate; non vi poſſo dire, quanto honoreuol aiuto (ſe lo trattenete bene) vene potrà auuenire. Voi ſapete, ch' in ogni lin<g ref="char:EOLhyphen"/>gua non c' è più bella gratia, che l'vſar, &amp; nel parlare, &amp; nel ſcriuere, di bei, &amp; ſpeſſi Prouerbi: I quali, sì per le ſcelte, &amp; purgate parole, che vi ſi trouano; ſi per le belle metafore, &amp; allegorie delle quali per lo più ſi
+<pb n="3" facs="tcp:151082:33"/>
+compongono, per l'acutezza che vi ſi ſcuopre, recon<g ref="char:EOLhyphen"/>dita &amp; non coſi nota, come quella fauella che s'vſa ordinariamente parlando; come ancora perche ſono quaſi voci diuine riceuuti, &amp; per commun conſenſo da tutti approuati: par che portino ſeco (non sò come) vna certa authorità, dignità, &amp; Maeſtà à quel che ſi ſcriue, &amp; ſi dice. Di così fatti Prouerbi queſto voſtro Italico ſeruitore vi fornirà à pieno nella ſua lingua volgare, preſtandouene tanti, &amp; tanti, che ſe degnate à mandarne ſolamente la minore, ò la migliore parte alla voſtra memoria (ſi come il ſuo primo patrone al<g ref="char:EOLhyphen"/>tre volte n' ha mandato la maggiore, &amp; non ſe n'è pen<g ref="char:EOLhyphen"/>tito, anziſen' è ſeruito pùr aſſai,) Vedrete, che vi corre<g ref="char:EOLhyphen"/>ranno per ogni verſo leggiadri &amp; vaghi Prouerbi, ſen<g ref="char:EOLhyphen"/>tenze illuſtri &amp; celebrate, belle parole &amp; purgate, mot<g ref="char:EOLhyphen"/>ti Toſcani, modi Italiani: in maniera che di sì fatta ſo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e in breue ſpatio vi s'auanzerà la lingua, ſi purge<g ref="char:EOLhyphen"/>ranno le parole, vi ſi creſcerà la creanza, s' arriccherà il giudicio, &amp; tutti inſieme sì realmente in voi s'incor<g ref="char:EOLhyphen"/>poreranno, che parerà ch' in vn ſubito voi vi ſiate trasferiti in Italia, &amp; d'Italia ritornati ſenza paſſar ò mare, ò monti. A me veramente Signori eſſendo in Italia, mi è riuſcito tanto dà valent' huomo queſto voſtro ſeruitore (che più non lo chiamo mio, ma vo<g ref="char:EOLhyphen"/>ſtro hauendolo raccommandato à voi) &amp; mi ſon tan<g ref="char:EOLhyphen"/>to ben ſeruito &amp; ſodisfatto dell'opera ſua, che s' io ho mai fatto qualche progreſſo nella lingua Toſcana, lo debbo certò in gran parte riconoſcere da lui. Le coſe ſue ſono brieui à ricordare: facili ad intendere, (sì l'ho facilitate io ancora, doue m' è parſo biſogno:) argute &amp; piaceuoli per dilettare: ſono varie, rac<g ref="char:EOLhyphen"/>colte non in Siena, ò in Fiorenza ſolò, ma in diuerſi &amp; diuerſi altri luoghi d'Italia: ſono anche Rare per non
+<pb n="4" facs="tcp:151082:34"/>
+eſſer già tanto d'ogni ſcrittore frequentate, quanto ſo<g ref="char:EOLhyphen"/>lamente per le bocche de gl'huomini in commu<g ref="char:cmbAbbrStroke">̄</g> par<g ref="char:EOLhyphen"/>lar vſate; non gia tutte fuor da libri cauate, ma la mag<g ref="char:EOLhyphen"/>gior parte dalle proprie mani de gli Italiani ſteſſi ri<g ref="char:EOLhyphen"/>ceuute. Videbbono anche queſti Prouerbi eſſer via più grati, perche hauendo eſſi fatti molti viaggi me<g ref="char:EOLhyphen"/>co, &amp; corſi per mare &amp; per terra molti pericoli; par che ſiano ſtati da qualche gratia diuina à poſta riſerbati, per farne preſente a i voſtri honorati ſtudi; a i quali mille volte li raccommando, ba<g ref="char:EOLhyphen"/>ſciandoui le mani.</p>
+                  <p>
+                     <figure>
+                        <p>T.V.</p>
+                     </figure>
+                  </p>
+                  <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="7" facs="tcp:151082:35" rendition="simple:additions"/>
+                  <head>VARIA COLLETTIONE DI PROVERBI VVLGA<g ref="char:EOLhyphen"/>RI, SENTENZE ILLVSTRI, DETTI BREVI, ET VAGHI MOTTI, che s'vſano nella lingua Italiana, copioſiſſima, &amp; feliciſſima in così fatte coſe, maſſi<g ref="char:EOLhyphen"/>me nel Prouerbiare.</head>
+                  <lg>
+                     <l>
+                        <hi>
+                           <seg rend="decorInit">L</seg>'HVOMO</hi> propone, &amp; Dio diſpone.</l>
+                     <l>Quel ch' e diſpoſto in Cielo, biſognache ſia.</l>
+                     <l>Accaſca in vn punto quel, che non accaſca in cent' anni.</l>
+                     <l>Biſogna quando altri è<note n="*" place="margin">An anuylo.</note> incudine, ſoffrire: quando<note n="*" place="margin">A hammer.</note> martello, percuotere.</l>
+                     <l>Egl'è mal boccone, quel ch' affoga.</l>
+                     <l>Beato colui, chi puo far beato altrui.</l>
+                     <l>La neceſsità non hà legge.</l>
+                     <l>Chi ſer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, &amp; tace, aſſai dimanda.</l>
+                     <l>Che premio al ben ſeruire, pur viene al fin, ſe ben tarda à venire.</l>
+                     <l>Il mal non ſtà ſempre, doue ſi pone.</l>
+                     <l>Sono caduto dalla<note n="*" place="margin">Frying Pan.</note> padella (come dice il vulgo) nelle<note n="*" place="margin">Burning coales.</note> brage, <hi>cio è da mal in peggio.</hi>
+                     </l>
+                     <l>Facilmente ſi truoua il baſtone per dar al cane.</l>
+                     <l>Biſogna legar l'aſino, doue vuole il parrone.</l>
+                     <l>Le diſgratie non vadano mai ſcompagniate.</l>
+                     <l>I ſogni non ſon veri, &amp; i diſegni non rieſcono.</l>
+                     <l>Chi mal penſa, mal diſpenſa.</l>
+                     <pb n="8" facs="tcp:151082:36"/>
+                     <l>Chicerca *<note place="margin">Trouble.</note> briga, àa troua à ſua poſta.</l>
+                     <l>Però non cercar quel che non ti tocca.</l>
+                     <l>Chi potendo ſtare, cade tra via, s'ei rompe il collo, ſuo danno.</l>
+                     <l>Il mondo è tondo, &amp; dopo la notte vien il giorno: &amp; ogni tempo vien, à chi lo può aſpettare.</l>
+                     <l>Più ſa il matto in caſa ſua, ch' il ſauio in quella d'altri.</l>
+                     <l>Il ben non fumai tardi.</l>
+                     <l>Chi naſce matto, non guariſce mai.</l>
+                     <l>Chi di gallina naſce conuien che *<note place="margin">Scrape.</note> razzoli.</l>
+                     <l>Chi ſi contenta, gode.</l>
+                     <l>Chi ſi loda, *<note place="margin">Beraieth, or defileth him ſelfe.</note> s'imbroda.</l>
+                     <l>Tutto quello che riluce, non è oro.</l>
+                     <l>Che profitta, rauederſi dopo il fatto, ò tardare à pentirſi al'*<note place="margin">Pillow, or bolſterre.</note> capezzale.</l>
+                     <l>Se s'aueſſe à fare la coſa due volte, ciaſeuno ſarebbe ſauio.</l>
+                     <l>Chi hà tempo non aſpetti tempo, ma pigli' il bene, quando viene.</l>
+                     <l>Ch' il mondo è fatto à ſcale, chi le ſcende, chi le ſale: &amp; l'hore non tornano à dietro.</l>
+                     <l>In vna vernata ſola gli alberi mutano faccia, &amp; il giudicar il preſente per il paſſato non è ſempre ſieuro.</l>
+                     <l>Meglio è rauederſi vna volta, che non mai.</l>
+                     <l>Però chi non hà ceruello habbia gambe: <hi>ſi ſuol dire, quan<g ref="char:EOLhyphen"/>do vn s'è ſcordato d'vna coſa, &amp; gli biſogna tornar in dietro.</hi>
+                     </l>
+                     <l>Il peggior di tutti i peccati, è l'oſtinatione.</l>
+                     <l>Gl'è vn gittar il *<note place="margin">The handle.</note> manico dietro alla palla.</l>
+                     <l>I gattucci hanno aperti gli occhi.</l>
+                     <l>Al *<note place="margin">Shroutyde.</note> carnouale ſi conoſce chi hà la gallina graſſa.</l>
+                     <l>Io conoſco i miei polli al raſpiare.</l>
+                     <l>Al *<note place="margin">To baye like an Aſſe.</note> ragghiare ſi vedrà, che non è Leone.</l>
+                     <l>Chi più hà, più s'imbratta.</l>
+                     <l>Chi Aſino è, &amp; ceruio eſſer ſi crede, al ſaltar di foſſa ſe n'auede.</l>
+                     <pb n="9" facs="tcp:151082:36"/>
+                     <l>Non è ben ſempre dir il tutto, anzi dicono, è meglio man<g ref="char:EOLhyphen"/>giar quel, ch' altri hà, che dir quel, che altri sà.</l>
+                     <l>In bocca ſerrata non entrò mai moſcha.</l>
+                     <l>Però ſi dice tien la lingua fra i denti.</l>
+                     <l>La lingua non hà oſſo, ma fá rompere il doſſo.</l>
+                     <l>Le ſuni legano i buoi, &amp; le parole gli huomini.</l>
+                     <l>Chi troppo parla, ſpeſſo falla.</l>
+                     <l>Si dice ancora che chi troppo parla è tenuto matto,</l>
+                     <l>Et chi non parla diuien muto affatto.</l>
+                     <l>E ſauiezza parlar poco, &amp; aſcoltar aſſai.</l>
+                     <l>Vn par d'orecchie ſeccano cento lingue.</l>
+                     <l>La lingua corre, doue il dente duole.</l>
+                     <l>Chi non parla, Dio non l'ode.</l>
+                     <l>Et però dì il fatto tuo, &amp; laſcia fare al diauolo.</l>
+                     <l>Il vitio di contradire è proprio de gli inſenſati.<note place="margin">Prouerbio antico.</note>
+                     </l>
+                     <l>Coſtui vuol toccare il cielo con vn dito, cioè, è glorioſo.</l>
+                     <l>Acader và, chi troppo in alto ſale.</l>
+                     <l>Non vanno ſi alte l'ale mie.</l>
+                     <l>Si laſcia taluolta la carne per l'ombra.</l>
+                     <l>*<note place="margin">As we ſaye, Selfe doe, ſelfe haue.</note>Qual Aſtno dà in parete, tal riceue.</l>
+                     <l>Chi dorme co' cani, ſi leua con le<note n="*" place="margin">Fleaſe.</note> pulci.</l>
+                     <l>*<note place="margin">To play, or touche wan<g ref="char:EOLhyphen"/>tonly.</note>Stuzzicare il *<note place="margin">A waſpes neſte.</note> veſpaio, è coſa pericoloſa.</l>
+                     <l>Chi ſcherniſce il *<note place="margin">A lame man.</note> Zoppo, dé eſſer diritto.</l>
+                     <l>Tutte le coſe vbidiſcono al danaio.</l>
+                     <l>Io veggo, che ſecondo il prouerbio. Volete ſtar lontan da Gioue &amp; dal Folgore: <hi>cio è ſuor d'ogni pericolo al ſicuro.</hi>
+                     </l>
+                     <l>A' i molini, &amp; alle donne ſempre manca qualche coſa: <hi>cio è alle donne troppo curioſe.</hi>
+                     </l>
+                     <l>I panni rifanno le *<note place="margin">Stakes, or poſtes.</note> ſtanghe.</l>
+                     <l>Veſtì vn baſtone, &amp; parrà vn barrone.</l>
+                     <l>Può ſoſtenere il Toro, chi haurà già portato il vitello.</l>
+                     <l>Chi non s'arriſchia, non guadagna.</l>
+                     <pb n="10" facs="tcp:151082:37"/>
+                     <l>Chi vuol del peſce, biſognache s'imbratti, &amp; s'immolli le brache.</l>
+                     <l>Egl'è difficiliſsimo andar à veder macinare, ſenza imbian<g ref="char:EOLhyphen"/>carſi di farina.</l>
+                     <l>Non vien vn male, che non vien per bene.</l>
+                     <l>
+                        <note place="margin">Prou. Saneſe.</note>Chi pecora ſi fa, il lupo ſelo mangia.</l>
+                     <l>Che ſi perde multo per eſſer ſtolto.</l>
+                     <l>Alla pruoua ſi *<note place="margin">Is fleade.</note> ſcortica l'aſino: &amp; molte coſe ſon meglia crederle, che prouarle.</l>
+                     <l>Biſognatal volta pena patire, per bella parere.</l>
+                     <l>Se io hò delle corna in ſeno, non me le vaglio metter in capo.</l>
+                     <l>Perche è mala coſa eſſer cattiuo, ma egl'è peggior l'eſſer co<g ref="char:EOLhyphen"/>noſciuto.</l>
+                     <l>E buona coſa eſſer lodato, ma è meglior il meritarlo.</l>
+                     <l>Chi há poca vergogna, tutt'il mondo è ſuo.</l>
+                     <l>Il can, che vuol mordere non *<note place="margin">Barketh.</note> abbaia.</l>
+                     <l>Et doue biſognano i fatti, le parole ſono d'auanzo.</l>
+                     <l>Dal detto al fatto v'e vn' gran tratto.</l>
+                     <l>Chi non fa, men falla.</l>
+                     <l>Mira la *<note place="margin">Moate.</note> bruſcha d'altri, &amp; non vede la ſua traue.</l>
+                     <l>Chi há bocca vuol mangiare.</l>
+                     <l>La commoditá fa l'huomo ladro.</l>
+                     <l>All'arca aperta il giuſto pecca.</l>
+                     <l>Ogni *<note place="margin">Cricket.</note> grillo grilla à ſe.</l>
+                     <l>Ogni gallo *<note place="margin">Scrapeth.</note> ruſpa á ſe.</l>
+                     <l>Et ogni vn tira l'aoqua al ſuo molino.</l>
+                     <l>
+                        <note place="margin">Prou. Saneſe.</note>La girlauda ancor che coſti vn quatrino, la non ſta bene in capo ad ogni vno.</l>
+                     <l>Quel é tuo nimico, chi é del tuo officio.</l>
+                     <l>Fra Corſali, &amp; Corſali non ſi perde che barili voti.</l>
+                     <l>Fra barcaiuolo, &amp; marinaio non ſi quadagna ſe non coſe da ferro vecchio.</l>
+                     <l>Non fù mai vn ſi triſto, che ſi no<g ref="char:cmbAbbrStroke">̄</g> trouaſſe vn perggior di lui.</l>
+                     <pb n="11" facs="tcp:151082:37"/>
+                     <l>Perche ogni diritto bà il ſuo rouerſcio.</l>
+                     <l>E mal ſordo, quel che non vuol vdire.</l>
+                     <l>Fallo celato è mezzo perdonato.</l>
+                     <l>Cagna frettoloſa fá i cagnuoli ciechi.</l>
+                     <l>Non ſi ſé mai nulla bene in fretta, ſe non il fuggir la peſte.</l>
+                     <l>D'Eforo ſete diuenuto Teopompo, <hi>de' quali quello haueua biſogno di ſprone queſto di freno.</hi>
+                     </l>
+                     <l>Chi guarda ad ogni penna, non fá mai letto.</l>
+                     <l>Fà d'vna moſcha, vn Elefante.</l>
+                     <l>Tre donne fanno vn mercato, <hi>cio è donne parlatrice.</hi>
+                     </l>
+                     <l>Egli è vn ſparger le perle fra i porci.</l>
+                     <l>Si amo in Caſa Talpa, &amp; fuori Argo: <hi>cio è veggiamo mol<g ref="char:EOLhyphen"/>to di lontano, &amp; nulla d'appreſſo.</hi>
+                     </l>
+                     <l>Meſcolar zucche con lanterne: <hi>come à dire parole Lom<g ref="char:EOLhyphen"/>barde con Toſcane.</hi>
+                     </l>
+                     <l>Troppo veramente s'ariſchia, chi del proprio giudicio s' as<g ref="char:EOLhyphen"/>ſicura.</l>
+                     <l>Et è volgar detto, che àl ben s'appiglia, chiben ſi conſiglia.</l>
+                     <l>Dimmi con cui tù vai, &amp; ſaprò quel che fai.</l>
+                     <l>Vi ſono di quelli, che ſecondo il prouerbio hanno il mele in bocca e' il<note n="*" place="margin">A Raiſer at his Girdle.</note> raſato à cintola.</l>
+                     <l>A can manſueto il lupo par feroce, <hi>&amp; la virtù va à terra ſenza la confidenza.</hi>
+                     </l>
+                     <l>Si dice ch' il nobil ama, e'l villan teme.</l>
+                     <l>Del rio ſeruo peggior parte è la lingua.</l>
+                     <l>Tanti nimici habbiamo, quanti ſeruitori: <hi>vero è, ſe non ſono fideli.</hi>
+                     </l>
+                     <l>G'i par ſempre di mangiar il caſcio nella trapola: <hi>cio è à chi ſtà in prigione.</hi>
+                     </l>
+                     <l>Hà conſumato più olio, che vino: <hi>ſi dice d'vn huomo ſtu<g ref="char:EOLhyphen"/>dioſo.</hi>
+                     </l>
+                     <l>La verità è nel vino.</l>
+                     <l>La fiamma è poco lontana dal fumo.</l>
+                     <pb n="12" facs="tcp:151082:38"/>
+                     <l>Amor vuol fede, &amp; fede vuole fermezza.</l>
+                     <l>Aqua lontana non ſpegne fuoco vicino: <hi>s'intende d'vn rimedio tardo.</hi>
+                     </l>
+                     <l>Graſſo ventre non genera ſottil ingegno.</l>
+                     <l>E mala coſa liſciar il pelo ál ſeruitore: <hi>cio è lodarlo, ó adulardo.</hi>
+                     </l>
+                     <l>punge il villan, chi l'vnge: vnge, ch' il punge.</l>
+                     <l>Tale è la cagnuola, quale è la Signora.</l>
+                     <l>Quale è il padre tal ſono i figliuoli.</l>
+                     <l>Qual é il Rettore, tal ſono i popoli.</l>
+                     <l>Il peſce commincia à putir dal capo: <hi>cio è I vitij de' ſerui<g ref="char:EOLhyphen"/>tori hanno ad eſſer aſcritti al patrone.</hi>
+                     </l>
+                     <l>Buon cauallo, ò mal cauallo vuol ſperone.</l>
+                     <l>Dal mattino ſi conoſce il buon giorno.</l>
+                     <l>Si ſuole dire, che chi hà cauallo bianco, &amp; bella moglie, non é mai ſenza doglie.</l>
+                     <l>Non é beſtia più pazza di quella del popolo, né acqua più groſſa di quella del<note n="*" place="margin">A certaine kinde of paſt boiled, and made as it were in frit<g ref="char:EOLhyphen"/>ters to be eaten.</note> macheroni.</l>
+                     <l>Dio mi guardi da due coſe: l'vna da' ſegnati da Dio, l'altra dall 'acque quiete.</l>
+                     <l>Dio mi guardi da hoſte nuouo, &amp; puttana vecchia.</l>
+                     <l>Ogni vn conta della fiera, come egli andò con eſſa.</l>
+                     <l>Talhor per vn brutto viſo, ſi perde vna buona compagnia.</l>
+                     <l>Porco pigro non mangiò mai pera mezza.</l>
+                     <l>Cinqu' hore dorme il viandante: ſette il ſtudiante: &amp; vn<g ref="char:EOLhyphen"/>deci ogni forfante.</l>
+                     <l>I diſpetti, &amp; iriſpetti guaſtano il mondo.</l>
+                     <l>Tanto é il bene che non gioua, quanto il mal che non nuoce.</l>
+                     <l>Chi non vuol ballare, non vadi al ballo, perche poi che altrì é dentro, biſogna ballare.</l>
+                     <l>Contra due non la potrebbe Orlando.</l>
+                     <l>Chi la vorrà ſolo dunque contra due Orlandi?</l>
+                     <l>Vien l'aſino di montagna, &amp; caccia il caual di ſtalla.</l>
+                     <pb n="13" facs="tcp:151082:38"/>
+                     <l>Al tutto é<note n="*" place="margin">Blinde.</note> orbo, chi non vede il ſole.</l>
+                     <l>La paura guarda la vigna.</l>
+                     <l>Siedi, &amp; gambetta, &amp; vedrai tua vendetta.</l>
+                     <l>Quel imboccarſi per man d'altri, é vn non ſattolarſi mai.</l>
+                     <l>Chi ti fá più carezze, che non ſuole, ò t'hà ingannato, ò in<g ref="char:EOLhyphen"/>gannar ti vuole: <hi>altri dicono, ò ingannar, ò tradir ti vuole.</hi>
+                     </l>
+                     <l>Le galline ſi pigliano con belle belle, non con ſcioia, ſcioia.</l>
+                     <l>Tal mano ſi baſcia, che ſi vorrebbe veder<note n="*" place="margin">Cut of.</note> mozza.</l>
+                     <l>Non é ingannato, ſe non chi ſi fida.</l>
+                     <l>Ogni bel giuoco, rincreſce.</l>
+                     <l>Ben ſpeſſo ſi piglia della volpe.</l>
+                     <l>Non é miglior Rimedio che tener lungi dal<note n="*" place="margin">A Goate.</note> becco l'herba, <hi>&amp; far dicoſtar le ſerue dal marito.</hi>
+                     </l>
+                     <l>Egli é meglio eſſer Martire, che confeſſore.</l>
+                     <l>Picctola pioggia fá ceſſar gran vento: <hi>s'intende delle la<g ref="char:EOLhyphen"/>grime di donne.</hi>
+                     </l>
+                     <l>Il ſpenſierato fa come il Magnano, che ſalta tanto con le<note n="*" place="margin">Budgettes.</note> bolge, come ſenza le bolge.</l>
+                     <l>Onde dice il volgo: Il ſaper nulla, é vna dolce vita.</l>
+                     <l>Per far buon giudicio del vino, biſogna dar prima colore à gli occhi, dapoi l'odore ál naſo, &amp; finalmente il ſapore alla bocca.</l>
+                     <l>Non ſi vuol tagliar il fuoco col ferro: <hi>cio è non conten<g ref="char:EOLhyphen"/>dere co' contentioſi.</hi>
+                     </l>
+                     <l>Hà la fame più grande, che il ventre.</l>
+                     <l>Da ventre pieno eſce miglior conſiglio: <hi>cio è più fidele, &amp; manco aſtuto.</hi>
+                     </l>
+                     <l>E meglio eſſer ſol, che mal accompagnato.</l>
+                     <l>La compagnia nel male ſuole allegierir il male.</l>
+                     <l>Io non vorrei eſſer ſolo in paradiſo.</l>
+                     <l>Le pietre, che vanno rotolando, non piglian rugine.</l>
+                     <l>Il ſeruitore dé ò ſeruir, come ſeruo, ò fuggir come ceruo.</l>
+                     <pb n="14" facs="tcp:151082:39" rendition="simple:additions"/>
+                     <l>Há talmente dalla crapula ingroſſato l'intelletto, che non conoſce (ſecondo il Prouerbio) la traggea dalla<note n="*" place="margin">Haile, or yce.</note> Gragnuo<g ref="char:EOLhyphen"/>la: &amp; gl'é giuditioſo, come l'aſmo che giudicò più Soaue il canto del cucco, che quello del<note n="*" place="margin">A nightin<g ref="char:EOLhyphen"/>gall.</note> Roſignuolo.</l>
+                     <l>Quando la Patrona ſollegia, la ſante dannegis.</l>
+                     <l>Non ſipuò inſieme bere, &amp;<note n="*" place="margin">to whiſtle.</note> fiſchiare,</l>
+                     <l>Chi non fá quel che deue, quel che aſpetta non riceue.</l>
+                     <l>Et altri dicono: Chi non ſa quel che debbe, gli interuien quel che non crede.</l>
+                     <l>Quando il Marito ſáterra, la moglie fácarne: <hi>s'intende della moglie cattiua, &amp; diſleale.</hi>
+                     </l>
+                     <l>Vá circando il pelo nel'ouo.</l>
+                     <l>La lettera non s'arroſsiſce, né ſivergogna.</l>
+                     <l>La verità ſi può piegare, ma rompere non giá mai.</l>
+                     <l>Chi é facile à credere, ſitrona ingannato ſpeſſo.</l>
+                     <l>Sigrida poche volte ál lupo, che non ſia in paeſe.</l>
+                     <l>Il villano vien ſempre col diſegno fatto.</l>
+                     <l>Tal ti guarda la cappa, che non ti vede la borſa.</l>
+                     <l>Non é peccato ál mondo ſimanifeſto, che non ſi venga à manifeſtare.</l>
+                     <l>Però diceua la fornaia, ſe non vuoi, che ſi ſappia, non lo fare, &amp; ſe vuoi tenerlo ſecreto, non lo dire.</l>
+                     <l>Chi non ſa tacere, non ſa godere.</l>
+                     <l>Chi há intrigato iſta ooſa, la ſlrighi: chi há mangiato i<note n="*" place="margin">new beanes.</note> baccelli, ſpazzi i guſci.</l>
+                     <l>Chi vá alle nozze, &amp; non é inuitato, ſpeſſo ſe ne torna ſuer<g ref="char:EOLhyphen"/>gognato.</l>
+                     <l>Chi ſcriue à chi non riſponde, ò l'è matto, ò l'há di biſogno.</l>
+                     <l>Di promeſſe non goàere, &amp; di minaccie non temere.</l>
+                     <l>Amor, &amp; Signoria non voglion compagnia.</l>
+                     <l>Chi biaſima vuol comprare.</l>
+                     <l>Mangiati à tuo modo, ma veſtiti à modo d'altri.</l>
+                     <l>Chiunque ad altrui inganni teſſe, in ſe ſteſſo non poco<g ref="char:EOLhyphen"/>mal
+<pb n="15" facs="tcp:151082:39"/>
+ordiſce.</l>
+                     <l>Odi, vedi, &amp; tac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, ſe vuoi viuere in pace.</l>
+                     <l>Carne fácarne, vino ſá ſangue: pan mantiene.</l>
+                     <l>Dio mi guardi dalle mattutine di Parigi, &amp; l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> veſpri di Sicilia.</l>
+                     <l>Bologna la graſſa, Padoua la paſſa, ma Venetia la guaſta.</l>
+                     <l>Chi vuole del freſco, non vadi à cercarlo.</l>
+                     <l>Tien coperta la teſta nel giorno manco che puoi, &amp; nella notte quanto che vuoi.</l>
+                     <l>Conti ſpeſsi fanno amicitie lunghe.</l>
+                     <l>Chi fá la ſua vendetta, oltre che offende,</l>
+                     <l>Chi offeſo l'há, da molti ſi defende.</l>
+                     <l>Chi più ſpende, manco ſpende.</l>
+                     <l>Speſſo vna moleſtia ne leua molte.</l>
+                     <l>Il fuoco arde la<note n="*" place="margin">Strawe.</note> paglia facilmente.</l>
+                     <l>Coſa, che voglia cadere, fá prima cenno.</l>
+                     <l>In vn buon ſeruitore ci vuole il muſo di Porco, la ſchiens d'Aſino, &amp; le gambe di Ceruo.</l>
+                     <l>Speſſe volte il giorno d'oggi aggiugne qualche coſa á quello d'hieri.</l>
+                     <l>Chi ſimarita in ſretta, ſe ne pente adagio.</l>
+                     <l>Pigliar vnadonna brutta, è mal di ſtomacho,</l>
+                     <l>Pigliarla bella è mal di teſta.</l>
+                     <l>Queſtoè come<note n="*" place="margin">To ſtompe.</note> peſtoiar acqua nel<note n="*" place="margin">Morter.</note> Mortaio, ò gittar le<note n="*" place="margin">Beanes.</note>Faue al muro, &amp; come perdere l'acqua, el'ſapone.</l>
+                     <l>Chi hauendo tempo, aſpetta tempo, tempo perde.</l>
+                     <l>Con il tempo, &amp; con la paglia ſi maturano le neſpole.</l>
+                     <l>Il più delle volte auiene, che la maggior parte vince la migliore.</l>
+                     <l>I vecchi, che ſch<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>zano con le donne fanno carezze alla morte.</l>
+                     <l>A buono Intendimento non biſogna molte parole.</l>
+                     <l>La ſcuſa non richieſta, preſuppone errore.</l>
+                     <pb n="16" facs="tcp:151082:40"/>
+                     <l>D'vn errore ſempre ne naſcono altri maggiori.</l>
+                     <l>La fuga ſi fá tarda, per troppo ſpronare.</l>
+                     <l>Vien la vernata, che ne và l'agnel prima, che la capra.</l>
+                     <l>Chi fá i fatti ſuoi, non s'imbrata le mani.</l>
+                     <l>Chi non ſa fare i fatti ſuoi, peggio fa quei d'altri.</l>
+                     <l>Quel ch' è del patto, non è d'inganno.</l>
+                     <l>Imonti firmi ſtanno, mà gl'huomini à rincontrarſi ſi vanno.</l>
+                     <l>La facilità non impediſce l'elegantia.</l>
+                     <l>Chi laſcia la via vecchia per la nuoua, ſpeſſo ingannato ſi truoua.</l>
+                     <l>Caual donato non ſi guarda in bocca.</l>
+                     <l>Né femina, né tela non pigliar alla candela: <hi>s'intende delle donne che ſi liſciano.</hi>
+                     </l>
+                     <l>Aſſai ſá, chi non ſá, ſe tacer ſá.</l>
+                     <l>Se non con la pelle del Leone, con la pelle della volpe.</l>
+                     <l>La conſcienza è mille teſtimonij.</l>
+                     <l>La marauiglia è figliuola della ignoranza.</l>
+                     <l>Vn huomo val cento, &amp; cento non val vno.</l>
+                     <l>Chi ſemina virtù, raccoglie fama.</l>
+                     <l>L'vna mano laua l'altra, &amp; ambedue lauano il viſo.</l>
+                     <l>Bocca larga: borſa ſtretta.</l>
+                     <l>Mentre che v' è acqua, biſogna molinare, &amp; mentre è cal<g ref="char:EOLhyphen"/>do, battere.</l>
+                     <l>Ciaſcuno Molino reſta di molinare mancando l'acqua.</l>
+                     <l>Chi comporta vn ingiuria vecchia inuita altrui à fargli vn' altra nuoua.</l>
+                     <l>
+                        <note place="margin">Prouerbio Bologneſe.</note>Putto in vin, &amp; donna in Latin, non fecer mai buon fin.</l>
+                     <l>Fraſepolto Teſoro, &amp; occulta ſapienza, non ſi conoſce alcu<g ref="char:EOLhyphen"/>na differenza.</l>
+                     <l>Seruo d'altrui ſi fá, chi dice il ſuo ſecreto, à chi no'l ſá.</l>
+                     <l>L'adulatore è ſimile al beccaio, che grata il porco con la mano, per dargli poi della mazza ſu'l capo.</l>
+                     <l>Chi vuol entrare, piccy l'vſcio.</l>
+                     <pb n="17" facs="tcp:151082:40"/>
+                     <l>Il diauolo non è ſi brutto, come ſi depinge.</l>
+                     <l>Il diauolo ſá, perche è vecchio.</l>
+                     <l>A cane, che lecca cenere, è mal fidarli la farina.</l>
+                     <l>Al can che fiuta farina, ſi può ben fidar cenere.</l>
+                     <l>Quel ſarebbe come porre il Lupo per<note n="*" place="margin">A ſheepe<g ref="char:EOLhyphen"/>hearde.</note> pecoraio, &amp; andar alla gatta per lardo.</l>
+                     <l>Né Chriſto ancora ſi potè guardare da man di traditore.</l>
+                     <l>Legalo bene, &amp; laſcialo andare.</l>
+                     <l>Piſcia chiaro, &amp; fá le fiche ál medico.</l>
+                     <l>Io leuai la lepre, &amp; vn' altro la preſe.</l>
+                     <l>Al'arborè che cade, ogniun grida taglia taglia, &amp; al can che fugge dágli dágli.</l>
+                     <l>Ogn' vn corre à far legna al arbore, ch' il vento in terra getta.</l>
+                     <l>Dio mi guardi da furia di populo, da cattiua giuſtitia, &amp; da man di traditori.</l>
+                     <l>Non è in tutto ſauio, chi non ſá biſognando eſſer pazzo.</l>
+                     <l>La gatta há pelata la coda.</l>
+                     <l>Chi altri tribola, ſe non poſa.</l>
+                     <l>Andarono per ſonare, &amp; furono ſonati: <hi>come i piffari di<note place="margin">Prouerbio Luccheſe.</note> Lucca.</hi>
+                     </l>
+                     <l>Chi tutto vuole, tutto perde.</l>
+                     <l>Chi ben ſiede, mal penſa.</l>
+                     <l>Tal biaſima altrui, che tira à' ſuoi colombi.</l>
+                     <l>Accennaua à coppe &amp; daua baſtoni.</l>
+                     <l>Non è peggior male, che quel della morte: nè peggior mine<g ref="char:EOLhyphen"/>ſtra, che quella che ſa del fumo.</l>
+                     <l>L'amore, &amp; la toſſe non ſi ponno celare.</l>
+                     <l>Non ſi ſerra mai vna porta, che non ſi apra vn' altra.</l>
+                     <l>Loda, &amp; comforta, &amp; non t'obligare.</l>
+                     <l>Sempre de' cattiui partiti, piglia il migliore.</l>
+                     <l>Però ſi dice in Italia che per arte, &amp; inganno ſiviue il mez<g ref="char:EOLhyphen"/>zo anno: per inganno &amp; arte ſi viue l'altra parte.</l>
+                     <pb n="18" facs="tcp:151082:41"/>
+                     <l>Alla buona di rata penſaui ſú.</l>
+                     <l>Non ſono tutti huomini, quelli che piſciano al muro.</l>
+                     <l>Biſogna guſtar il mele con la punta delle dita: <hi>cio è vſar vna coſa non per cibo ordinario, ma come per ri<g ref="char:EOLhyphen"/>ſtoratiuo.</hi>
+                     </l>
+                     <l>L'aquila non piglia le moſche.</l>
+                     <l>L'infelici figliuoli lodano i padri: <hi>volendo dire ch' eſſi ſteſſi ſon d'ogni lode indegni.</hi>
+                     </l>
+                     <l>Queſto non ſarebbe altro, che voler torre il folgore à Gioue: <hi>ò entrare in altrui poſſeſſione.</hi>
+                     </l>
+                     <l>L'ingannar ſe ſteſſo è la più facil coſa di tutte l'altre.</l>
+                     <l>I ſecondi penſieri ſon ſempre migliori.</l>
+                     <l>Chi falla la ſeconda, tocca vn cauallo.</l>
+                     <l>Par vn Toſcano di Monferrato: <hi>Si dice d'vno ch' è trop<g ref="char:EOLhyphen"/>po curioſo nel parlare.</hi>
+                     </l>
+                     <l>L'agnello humile ſuccia le mamelle della propria madre, &amp; l'altre ancora.</l>
+                     <l>Da mal Coruo, mal ouo.</l>
+                     <l>Le donne s'hanno à ſpoſare prima con l'orecchie, che con gli occhi.</l>
+                     <l>Voi volete dire, ch' io imbocco (ſecondo il Prouerbio) col<note n="*" place="margin">with an empty ſpone</note> cucchiaio votò: <hi>cio è moſtro di voler fare, &amp; non fare.</hi>
+                     </l>
+                     <l>E meglio paſcer febre, che paſcer debolezza: <hi>volendo dire, che l'infermità, che vengono da repletione ſono menò pericoloſe, che quelle, che procedono da eſtenuatione.</hi>
+                     </l>
+                     <l>Il vino non há *<note place="margin">The Rudder of a boate.</note> timone.</l>
+                     <l>L'è vn voler eſtinguer il fuoco con l'oglio,</l>
+                     <l>Picciol vento accende fuoco, ma vn grande l'eſtingue.</l>
+                     <l>M' hauete renduto pan per<note n="*" place="margin">Caakes.</note> foccacia.</l>
+                     <l>Più dolci ſono le ferite del amico, ch' i baci del inimico.</l>
+                     <l>Le coſe malamente acquiſtate, malamente ſe ne vanno.</l>
+                     <l>Vn belmorir tutta la vita honora.</l>
+                     <pb n="19" facs="tcp:151082:41"/>
+                     <l>Freno indorato non migliora il cauallo.</l>
+                     <l>Se l'occhio non mira, il cuor non ſoſpira.</l>
+                     <l>Che quanto piace al mondo è breue ſogno.</l>
+                     <l>Chi porta il torchio indietro há per coſtume, à ſe far ombra, àchi lo ſegue lume.</l>
+                     <l>Non shirzar che doglia, non motteggiar del vero.</l>
+                     <l>Gli huomini da bene ſono ſi pochi, che ſi poſſon numerare col'Naſo.</l>
+                     <l>Lodando il buono, è poi ſempre migliore,</l>
+                     <l>Riprendi il triſto, ogn' hora ne vien peggiore.</l>
+                     <l>Chi dice tutto quel ch' egli ſá, fá tutto quel ch' egli può, &amp; mangia cio ch' egli hà, non gli reſta più niente.</l>
+                     <l>Con l'ombra della virtù ſi depinge il vitio,</l>
+                     <l>Et ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tto il conio della bontà ſi ſpende la malitia.</l>
+                     <l>Egl'è formica di ſorbo, che non eſce per<note n="*" place="margin">to knocke.</note> buſſare.</l>
+                     <l>Biſogna eſſer tagliato a buona Luna.</l>
+                     <l>Ogni coſa ha principio.</l>
+                     <l>Muro bianco carta da matti.</l>
+                     <l>Per via s'acconciano le Some.</l>
+                     <l>Egli ſcorticarebbe il pedocchio per hauer la pelle.</l>
+                     <l>Quanto vno ha più roba, tanto più ne vorrebbe hauere.</l>
+                     <l>Há fatto più che Carlo in Francia: <hi>cio è coſe incredibili.</hi>
+                     </l>
+                     <l>Triſto è colui ch' aſpetta la mercè d'altrui.</l>
+                     <l>L'auaro inanzi ch' egli ſco<g ref="char:cmbAbbrStroke">̄</g>deſſeil Teſoro, perſe ſe medeſimo.<note place="margin">Sent.</note>
+                     </l>
+                     <l>Tanto gode l'auaro hauendo nulla, quanto hauendo ogni coſa.</l>
+                     <l>I danari non ſtatiano l'auaro, ma gli fanno hauere più ſete di quelli.</l>
+                     <l>L'huomo virtuoſo ama più d'eſſere, che d'eſſer tenuto.</l>
+                     <l>La ſpada de' triſti non taglia, ma il credito de' buoni amaz<g ref="char:EOLhyphen"/>za l'huomo.</l>
+                     <l>Chi ſi becca il ceruello in vn modo, chi in vn altro.</l>
+                     <l>S'io trouaſsi l'inimico à dormire, non gli torcerei vn pelo.</l>
+                     <l>Vn pazzo ne fa cento.</l>
+                     <pb n="20" facs="tcp:151082:42"/>
+                     <l>Il ſerluitor iſciocco ſuol eſſer ſpeſſe volte nel rubare aſtuto.</l>
+                     <l>I bnoni coſtumi ſi debbono honorare non meno ch' i capei ca<g ref="char:EOLhyphen"/>nuti.</l>
+                     <l>L'amore<note n="*" place="margin">Bemyreth.</note> infanga il giouane, &amp; il vecch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o<note n="*" place="margin">Drouneth.</note> annega.</l>
+                     <l>Non deſideri mai niſſuno d'eſſer il primo a portar cattiua nouella.</l>
+                     <l>Quel che tu vuoi donare vna volta, non lo prometter due.</l>
+                     <l>Non ſa donare chi tarda à dare.</l>
+                     <l>La legge poche volte reſiſte ál Oro.</l>
+                     <l>Il martell d'argento<note n="*" place="margin">Breaketh in peeces.</note> ſpezza le porte di ferro.</l>
+                     <l>A far bene le facende, biſogna ben penſare, meglio conſiglia<g ref="char:EOLhyphen"/>re, ottimamente deliberare, &amp; perfettamente fare.</l>
+                     <l>Il pouero s'affattica incercar quello che gli manca, il ricco in conſeruar quello ch' egl'ha, &amp; il virtuoſo nel domandar quel'che gli biſogna.</l>
+                     <l>Ei fu buon<note n="*" place="margin">A greene gooſe.</note> Papero, &amp; cattiua ocha: <hi>cio è fumiglior maſ<g ref="char:EOLhyphen"/>ſaio in giouentù, che in vecchiezza, meglio com<g ref="char:EOLhyphen"/>portana la pouertà che la ricchezza.</hi>
+                     </l>
+                     <l>Virtù è, fuggir il vitio.</l>
+                     <l>Chi non fa le pazzie in giouentù le fa poi in vecchiezza.</l>
+                     <l>L'oro s'eſperimenta col fuoca, con il martello ſi p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uoua l'ar<g ref="char:EOLhyphen"/>gento, &amp; con l'adoperare ſiconoſcono gl'huomini.</l>
+                     <l>La più cattiua Ruota del carro è quella che<note n="*" place="margin">that kreakes</note> cigoli.</l>
+                     <l>Chi cerca i fatti d'altri non puo eſſer buono.</l>
+                     <l>
+                        <note place="margin">Sent.</note>Ogni ignorante è cattiuo.</l>
+                     <l>L'arbor buono fa buon frutto.</l>
+                     <l>Tanto và là gatta ál Lardo, che vi la ſcia la<note n="*" place="margin">Pawe.</note> zampa.</l>
+                     <l>La padella dice al<note n="*" place="margin">Cawderne.</note> Paiuolo, fatti in la che tu mi tingi: <hi>ſi puo vſar queſto Prouerbio, per <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aſſar i maledicenti.</hi>
+                     </l>
+                     <l>Ama è ſerai amato.</l>
+                     <l>
+                        <note place="margin">Sent. di Pla<g ref="char:EOLhyphen"/>tone.</note>Amore é il vero prezzo con che ſi compra l'Amore.</l>
+                     <l>Ogn' vn s'il becca: <hi>ſi dice propriamente de' poeti.</hi>
+                     </l>
+                     <l>Tutto<note n="*" place="margin">Steele.</note> l'acciaio ch' egli hà adoſſo non potrebbe fare vna punta d'vn ago.</l>
+                     <pb n="21" facs="tcp:151082:42"/>
+                     <l>Non ſi puo trar la<note n="*" place="margin">Frogge.</note> ranòcchia dal<note n="*" place="margin">Myre.</note> Pantano.</l>
+                     <l>Chi laua il capo al Aſino perde il<note n="*" place="margin">Lec.</note> ranno, el'ſapone.</l>
+                     <l>Tal merito ha, chi ingrato ſerue.</l>
+                     <l>Di buon ſeme mal frutto.</l>
+                     <l>Il ſapere ha vn piede in terra &amp; vno in Nane, <hi>Perche Si<g ref="char:EOLhyphen"/>gnoreggia l'acqua &amp; la terra.</hi>
+                     </l>
+                     <l>Tu hai fatto d'vna lanza vn<note n="*" place="margin">Spindle.</note> fuſo. cio è penſando d'eſſer Gigante nel ſapere, ti ſei moſtrato vn Pigmeo.</l>
+                     <l>Impacciati co' fanti,</l>
+                     <l>Et laſcta ſtare i Santi.</l>
+                     <l>Tu ſei fatto come la<note n="*" place="margin">A cheſnut.</note> Caſtagna,</l>
+                     <l>Bella di fuori, &amp; dentro è la<note n="*" place="margin">A magott.</note> magagna.</l>
+                     <l>Si vuol andar col pie del piombo.</l>
+                     <l>Non ti conoſco, ſe non ti maneggio.</l>
+                     <l>Duro con duro non fece mai buon Muro.</l>
+                     <l>Non ſi può diſtenderſi, che quanto è lungo il<note n="*" place="margin">Sheete.</note> linzuolo.</l>
+                     <l>Chi ha moglie ha pena &amp; doglie: <hi>s'intende della cattiua.</hi>
+                     </l>
+                     <l>Egli ha tolto vn<note n="*" place="margin">A hawkes bell.</note> ſonaglio per vn<note n="*" place="margin">Byle.</note> anguinaia.</l>
+                     <l>Chi non può battere il cauallo, batte la ſella.</l>
+                     <l>Io leuai la lepre vn' altro lapreſe.</l>
+                     <l>Chi fa la roba non la gode.</l>
+                     <l>Nido fatto<note n="*" place="margin">A birde called a Pye.</note> gazza morta.</l>
+                     <l>
+                        <note n="*" place="margin">Detto diCi<g ref="char:EOLhyphen"/>cerone.</note>L'huomo honora il luogo, &amp; non il luogo l'huomo.</l>
+                     <l>Le parole ſon femine, &amp; i fatti ſon maſchi.</l>
+                     <l>Predica il Vangelo ad altri, &amp; egli non crede nulla.</l>
+                     <l>Coſtui ſene và alla Carlona: <hi>cio è alla libera.</hi>
+                     </l>
+                     <l>Fà come il<note n="*" place="margin">A popiniaye</note> Papagallo, che non leua mai il piede, ſe non ha prima appiccato il<note n="*" place="margin">Bill.</note> becco: <hi>cio è non ſcriue ne ſerue ſe non ſia prima premiato.</hi>
+                     </l>
+                     <l>Andò aggirando vn pezzo, come moſcha ſenza capo.</l>
+                     <l>Fa come le capre che ſaltan tutte doue ne ſalta vna.</l>
+                     <l>Buone parole, &amp; cattiui fatti ingannano i ſauij &amp; i matti.</l>
+                     <l>Ciaſcun Molino reſta di molinare, mancando l'acqua.</l>
+                     <pb n="22" facs="tcp:151082:43"/>
+                     <l>Vuol fare d'vn<note n="*" place="margin">A Thorne.</note> Pruno vn<note n="*" place="margin">An Orége.</note> Melarancio.</l>
+                     <l>La campana ſuona per altri, &amp; non per ſe.</l>
+                     <l>Fa come la candela: è buono à gli altri &amp; à ſe mediſsimo fa danno.</l>
+                     <l>Egli è meglio vn tieni tieni, che ce<g ref="char:cmbAbbrStroke">̄</g>to piglia piglia.</l>
+                     <l>Il fauio be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſpeſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>caeua'l<note n="*" place="margin">A Crabbe.</note> Grancio dalla<note n="*" place="margin">A Hole.</note> buca con la mano d'altri.</l>
+                     <l>Vuol pigliar la Lepre conil carro.</l>
+                     <l>Egli è fauio dopo il fatto.</l>
+                     <l>
+                        <note place="margin">Sent.</note>No<g ref="char:cmbAbbrStroke">̄</g> per paſſar il te<g ref="char:cmbAbbrStroke">̄</g>po ma per acquiſtar te<g ref="char:cmbAbbrStroke">̄</g>po ſi leggono i libri.</l>
+                     <l>Più toſto ſi dé guardare dell'inuidia del Amico, che dall'inſidie del nimico.</l>
+                     <l>Non conoſce la pace, &amp; non la ſtima,</l>
+                     <l>Chi non hà prouato la guerra prima.</l>
+                     <l>Il cane abbaia, doue ſi paſce.</l>
+                     <l>Ogni cane vuol piſciar al muro.</l>
+                     <l>Ogni triſto cane mena la coda.</l>
+                     <l>Il far il letto al cane è gran fatica.</l>
+                     <l>La fiamma è poco lontana dal fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>no.</l>
+                     <l>Nelle guerre d'Amore chi fugge, vince.</l>
+                     <l>Lo faremo credere ancha à San Thomaſo.</l>
+                     <l>Quando l'oro parla, la lingua non ha forza alcuna.</l>
+                     <l>Chi hà Amore in ſeno, ha ſempre le ſprone al fianco.</l>
+                     <l>Chi ſcampa d'vn punto ne ſcifamille.</l>
+                     <l>Da vn lato hò il precipitio, &amp; dall altro i lupi.</l>
+                     <l>Si vuol amar amico col ſuo difetto.</l>
+                     <l>Dire villania al ſurdo, &amp; ſcolparſi ſopra la fortuna, ſono coſe d'huomini dappoco.</l>
+                     <l>E più facil coſa tener vn carbonè ardente, che vna ſecreta parola in bocca.</l>
+                     <l>Il perder fá mal ſangue: Giocar &amp; perder lo ſá far ogni vno.</l>
+                     <l>La moſcha ha la ſua colera, &amp; non è ſi picciol pelo che non habbia la ſua ombra.</l>
+                     <l>Non biſogna ſtuzzicare, quando fumail naſo del orſo.</l>
+                     <l>Ogni mal freſco ageuolmente ſi leua.</l>
+                     <pb n="23" facs="tcp:151082:43"/>
+                     <l>Non è buona madre quella, che fá il figliuolo, &amp; non hà poi latte di poterlo nutrire.</l>
+                     <l>E meglio perdere dicendo il vero, che vincer con le bugie.</l>
+                     <l>Non può il vitello, &amp; vuol che porti il bue.</l>
+                     <l>Coſtui vuol abbracciar l'ombra, &amp; pigliar il ve<g ref="char:cmbAbbrStroke">̄</g>to con le reti.</l>
+                     <l>Fà come il gallo, che canta bene, ma creſpa male: <hi>cio è ha buone parole ma cattiui fatti.</hi>
+                     </l>
+                     <l>Colui và in<note n="*" place="margin">Slippers.</note> zoccoli per l'aſciuto: <hi>cio è ſi dà faſtidio ſen<g ref="char:EOLhyphen"/>za cagione.</hi>
+                     </l>
+                     <l>Chi ben dona, caro vende, ſe villan non è ch'il prende.</l>
+                     <l>L'huomo é dio al huomo, &amp; Lupo.</l>
+                     <l>Non biſogna per gli vccelli reſtar di ſeminare il grano.</l>
+                     <l>Ogni<note n="*" place="margin">Euery ſowle coyfe.</note> ſcuffia lorda ſerue per la notte.</l>
+                     <l>Non ſi crede al bugiardo, anco che giuri.</l>
+                     <l>Ben ſi crede al verace, anchor che menta.</l>
+                     <l>Più ſcende, chi più ſale.</l>
+                     <l>A ſciaſcuno paſſo naſce vn penſier nuouo.</l>
+                     <l>Il ſerpente tra fiori, &amp; herbe giace.</l>
+                     <l>E tempo à cenare à i ricchi quando vogliono, &amp; à i poueri quando poſſono.</l>
+                     <l>La gola non ha orecchie.</l>
+                     <l>La Salimanda uon è offeſa dal fuoto.</l>
+                     <l>Il medico è graſſo, e'l religioſo è magro.</l>
+                     <l>Io chi ſono di cera al fuoco torno.</l>
+                     <l>L'aquila non genera colombe.</l>
+                     <l>Vn tacer à tempo auanza ogni bel parlare.</l>
+                     <l>Si vuol ſaper con i più, &amp; parlar can i manco.</l>
+                     <l>Merita ogni biaſimo quel giouane che vuol parlar come vec<g ref="char:EOLhyphen"/>chio,<note place="margin">Sent.</note> &amp; quella donna che vuol parlare come huomo.</l>
+                     <l>In giouenil fallire è men vergogna: <hi>dice il Poeta.</hi>
+                     </l>
+                     <l>Tre ſorte di perſone odioſe al mondo. vz. Il pouero ſuperbo: Il ricco bugiardo: E'l vecchio ſtolto.</l>
+                     <l>L'eſſer canuto è ſegno di tempo, ma non di ſapere.</l>
+                     <l>Doue è manco cuore, quiui è più lingua.</l>
+                     <pb n="24" facs="tcp:151082:44"/>
+                     <l>Tanto più manifeſtaſi il pèccato,</l>
+                     <l>Quanto più il peccator é in alto ſtato.</l>
+                     <l>Chi riceue beneficio per via di prieghi, lo compra caro.</l>
+                     <l>Chi viue per altrui, é morto in ſe ſteſſo.</l>
+                     <l>Val più vn' vncia di fortuna, che cento peſi d'induſtria,</l>
+                     <l>E molto meglio meritar vn honore che hauerlo.</l>
+                     <l>Perdonando troppo à chi falla, ſi fa ingiuria à chi non falla. <hi>del Cortegiano.</hi>
+                     </l>
+                     <l>E peggio non voler far bene, che non ſaperlo fare.</l>
+                     <l>La miſura del hauere debb' eſſer il corpo del huomo: ſi come<note place="margin">Sent.</note> il piede é la miſura della ſcarpa.</l>
+                     <l>La pace non armata é debole.</l>
+                     <l>La diffidenza é la radice di ſapienza.</l>
+                     <l>Il magiſtrato fa manifeſto il valor di chi l'eſſercita. <hi>del Guicciardini.</hi>
+                     </l>
+                     <l>Chi ſi contenta, gode.</l>
+                     <l>Chi fa la caſa in piazza vn dice ch' ella é alta, &amp; l'altro ch' ella é baſſa.</l>
+                     <l>La verità ſi può piegare, ma rompere non giamai.</l>
+                     <l>Senza oro &amp; argento non s'entra dentro.</l>
+                     <l>Iraſenza forza é coſa vana.</l>
+                     <l>Ad amor paleſe rare volte é co<g ref="char:cmbAbbrStroke">̄</g>ceduto felice fine. <hi>del Bocca.</hi>
+                     </l>
+                     <l>Tra felici, &amp; infelici nel mezzo della lor vita non v é dif<g ref="char:EOLhyphen"/>ferenza alcuna.</l>
+                     <l>Donna baſciata, &amp; mezzo guadagnata.</l>
+                     <l>Sola la miſeria é ſenza inuidia nelle coſe preſenti.</l>
+                     <l>Per vna percoſſa non cadde mai arbore.</l>
+                     <l>Le puttane ſono come il carbone, che, ò coee, ò tinge.</l>
+                     <l>Chi vuol eſſer ricco ageuolmente, hòr ſia pouero di deſi<g ref="char:EOLhyphen"/>derij. <hi>diſſe Cleante.</hi>
+                     </l>
+                     <l>Non é più tempo à dar<note n="*" place="margin">Haie.</note> fieno à<note n="*" place="margin">Geeſe.</note> oche.</l>
+                     <l>La vita fugge, &amp; non s'arreſta vn' hora. Et la morte vien dietro à gran giornate.</l>
+                     <l>La vita il fine, e'l di loda la ſera.</l>
+                     <pb n="25" facs="tcp:151082:44"/>
+                     <l>Trotto d'Aſino dura poco.</l>
+                     <l>Vn fior non fa Primauera.</l>
+                     <l>Chi dona al indegno, due volte perde.</l>
+                     <l>Non é bel quel ch' é bello,</l>
+                     <l>Ma bello é quel che piace.</l>
+                     <l>Chi dà toſto dà due<g ref="char:punc">▪</g> volte.</l>
+                     <l>Al Bugiardo non é creduto la verità.</l>
+                     <l>Penſa &amp; poi fa. Da &amp; poi di.</l>
+                     <l>Chi vno ne caſtiga cento ne minaccia.<note place="margin">Detto di Se<g ref="char:EOLhyphen"/>neca.</note>
+                     </l>
+                     <l>Sarebbe troppo per vn cauallo, &amp; poco per vn carro.</l>
+                     <l>Ogni vn chi ſtamale deſidera ruina.</l>
+                     <l>Egli ha fatto il ſuo de<note n="*" place="margin">Thinges pilfered.</note> ruffola, * raffola.</l>
+                     <l>Dal detto àl fatto v' é vn gran tratto.</l>
+                     <l>Ogni ſimile appetiſce il ſuo ſimile.</l>
+                     <l>Se tu vuoi conoſcer vno, fallo parlare.</l>
+                     <l>Ogni<note n="*" place="margin">Broome o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> beeſſome.</note> granata nuona ſpazza ben la caſa.</l>
+                     <l>Io mi ſono alleuato la ſerpe in ſeno.</l>
+                     <l>La diſcretione é la madre delle virtù.</l>
+                     <l>Chi non ſa fare i fatti ſuoi, peggio fá quei d'altri.</l>
+                     <l>L'auaro non fa mai miglior opera, che quando tirale calze.</l>
+                     <l>Coſtui mi rieſce meglio àpane ch' à farina.</l>
+                     <l>Fá come il can pauroſo, che tira la coda frale gambe.</l>
+                     <l>Non crede al ſanto ſe non fá miracolo.</l>
+                     <l>Egli há troppo buon vino á ſicattiua<note n="*" place="margin">A Butte, or hoggeſhead.</note> botte.</l>
+                     <l>Se l'é roſa, la fiorira.</l>
+                     <l>Quando la Pera é matura, conuien che la caggia.</l>
+                     <l>Quando il villan é ſolo ſopra il fico,</l>
+                     <l>Non há parente alcun, ne buon amico.</l>
+                     <l>Chi bá ſiel in bocca, non può ſputar mele.</l>
+                     <l>E difficiliſsimo andár á veder macinare, ſenza imbiancarſi di farina.</l>
+                     <l>Ogni vn chiama la gatta gatta.</l>
+                     <l>Il pazzo ſa meglio i fatti ſuoi, ch' il ſauio quelli d'altri.</l>
+                     <l>Gli adulatori ſi laſciano pigliare al boccone come peſce.</l>
+                     <pb n="26" facs="tcp:151082:45"/>
+                     <l>Non v'è maggior male che l'ignoranza.</l>
+                     <l>La gola, il ſonno, &amp; l'otioſe piume,</l>
+                     <l>Hanno del mondo ogni virtù sbandita.</l>
+                     <l>E bruttiſsima coſa tollerar vn huomo malitioſo che ponga la bocca in cielo.</l>
+                     <l>Sempre dopo la gloria ne vien l'inuidia.</l>
+                     <l>Dio voglia che quel oro non rieſca Orpello.</l>
+                     <l>Tutt' il noſtro proceder non è altro ch' vn aggirarſi intorno, come vna<note n="*" place="margin">A Gnatte.</note> far falla intorno al lume.</l>
+                     <l>Chi coſi vuol, coſi habbia.</l>
+                     <l>Il gallo canta con buona voce, ma non reſta à<note n="*" place="margin">Skrape.</note> raſpar con le vnghie.</l>
+                     <l>Par ch' egli habbia queſta ventura di caſcar in piedi come le gatte.</l>
+                     <l>Si và per più ſtrade à Roma.</l>
+                     <l>Si tende vn<note n="*" place="margin">A Snare.</note> laccio alle lepri, vna<note n="*" place="margin">A fowlinge Nette.</note> ragna à gli Vccelli, vna Rete à peſci, &amp; à gli huomini ſi tendono l'Inſidie.</l>
+                     <l>Chi non può pigliar vccelli, mangi la<note n="*" place="margin">An Owle.</note> ciuetta.</l>
+                     <l>Non ſi và alla fama ſott' il coltrone, ne co'l dormire ſu la coltrice, &amp; chi dorme in queſto modo laſcia di ſe vn fu<g ref="char:EOLhyphen"/>mo in aria, &amp; vna ſchiuma nell'acqua.</l>
+                     <l>O bene ò male tutt' è faua.</l>
+                     <l>Chi no<g ref="char:cmbAbbrStroke">̄</g> ſá adulare no<g ref="char:cmbAbbrStroke">̄</g> ſa conuerſare: <hi>ma ſi dice meglio che.</hi>
+                     </l>
+                     <l>L'adulatore é amico nel conuerſare con parole &amp; inimico nel animo co' fatti.</l>
+                     <l>Vi corre ancor vn altro Prouerbio più volgare che lo<g ref="char:EOLhyphen"/>deuole che.</l>
+                     <l>Chi non ſa diſsimulare non ſa viuere.</l>
+                     <l>La fortuna non ſá ſedere: Colui è degno d'ogni male, che della ſua fortuna ſi vergogna. Dicono gli ignoranti ventura Dio, poco ſenno baſta: Et vorrei buona Fortu<g ref="char:EOLhyphen"/>na, la ſapienza chi la vuol la tolga: Chi non ha ventura non vadi à peſcare.</l>
+                     <pb n="27" facs="tcp:151082:45"/>
+                     <l>Tanto è del auaro quel che poſsiede, quanto quel che non poſ<g ref="char:EOLhyphen"/>ſiede.</l>
+                     <l>Sempre pioue, quando io fó bucato.</l>
+                     <l>Come iò vò in Chieſa, mi cade il Campanile in capo.<note place="margin">Detto d'Ho<g ref="char:EOLhyphen"/>mero diuen<g ref="char:EOLhyphen"/>tato Prouer<g ref="char:EOLhyphen"/>bio.</note>
+                     </l>
+                     <l>Amico fin ál Altare.</l>
+                     <l>Anche gli ſtolti conoſcono la coſa poi ch' ella è fatta.</l>
+                     <l>Gli huomini grandi hanno à morire in piedi.<note place="margin">Prouerbi trattì dalle Hiſtorie.</note>
+                     </l>
+                     <l>Il Romano vince ſedendo.</l>
+                     <l>Egli hà fatto il figliuol Prodigo.<note place="margin">Prouerbi ca<g ref="char:EOLhyphen"/>uati da' ſacri libri.</note>
+                     </l>
+                     <l>Egli è venuto ſenza la veſte nuptiale.</l>
+                     <l>Non ſi cognoſce Errore, la doue regna Amore.<note place="margin">Prouerbi fac<g ref="char:EOLunhyphen"/>ti pervna Getildo<g ref="char:cmbAbbrStroke">̄</g>nna Saneſe.</note>
+                     </l>
+                     <l>Chi vuol ſaluar honore, ſdegno in fronte, &amp; fuoco in cuore.</l>
+                     <l>Doue non è la ſperanza del bene, non è la paura del male.</l>
+                     <l>Il pianger i morti no<g ref="char:cmbAbbrStroke">̄</g> rileua, &amp; la vendetta sfoga l'odio aſſai.</l>
+                     <l>Se il lagrimar ne medicaſſe il male,</l>
+                     <l>Et piangendo il dolor finiſſe,</l>
+                     <l>Per le lagrime ogni vn darebbe l'oro.</l>
+                     <l>Chi oſſerna queſte tre coſe non haurà mai con<g ref="char:EOLhyphen"/>teſa aucuna.</l>
+                     <l>Cedere al maggiore, perſuadere con modeſtia al minore, &amp; conſentire al vguale.</l>
+                     <l>Ad amor paleſe rare volte ò non mai è conceduto felice fine.<note place="margin">Del Bocca<g ref="char:EOLhyphen"/>cio.</note>
+                     </l>
+                     <l>Fauciulla à tempo non maritata, ſpeſſo ſi marita ſuerginata,</l>
+                     <l>Tien la fortuna mentre che tu l'hai, Che ſi ti eſce di man mai più l'haurai.</l>
+                     <l>La Zingara ad altrui la ſorte dice, Et la ſua non conoſce l'infelice.</l>
+                     <l>Aſpettare, &amp; non venire, ſeruire &amp; non aggradire, Star in letto &amp; non dormire, ſono tre coſe da morire.</l>
+                     <l>Il miſer ſuole dar facil credenza à quel che vuole.</l>
+                     <l>Sempre che l'inimico è più poſſente,</l>
+                     <l>Più chi perde accettabile ha la ſcuſa.</l>
+                     <l>Ambaſciator pena non porta.</l>
+                     <pb n="28" facs="tcp:151082:46"/>
+                     <l>
+                        <note place="margin">Del Arioſto.</note>L'huomo nè per ſtar, nè per fuggire, Al ſuo fiſſo deſtin puo contradire.</l>
+                     <l>Perch' il porro ha il capo bianco, la coda è verde.</l>
+                     <l>Le coſe quantunque molto piacciono, hauendone ſoperchia copia rincreſcono.</l>
+                     <l>Ogn' vn corre à far legna,</l>
+                     <l>
+                        <note place="margin">Del Arioſto.</note>Al arbore, ch' il vento in terra getta.</l>
+                     <l>
+                        <note place="margin">Del Corte<g ref="char:EOLhyphen"/>giano.</note>La facilità non impediſce l'elegantia.</l>
+                     <l>La compagnia nel male ſuol allegierir il male.</l>
+                     <l>I giouani hanno copia di tempo, i vecchi n'han careſtia.</l>
+                     <l>Ama, &amp; ſarai amato.</l>
+                     <l>
+                        <note n="*" place="margin">Di Platone.</note>L'amar altrui è il vero prezzo con che ſicompra Amore.</l>
+                     <l>I diauoli non ſono ſi negri come ſi dipingono.</l>
+                     <l>L'arbore che di continuo ſi trapianta non fàmai frutto.</l>
+                     <l>Vfficio pregato è mezzo pagato.</l>
+                     <l>Di nouello ogni coſa è bella.</l>
+                     <l>Milano la grande, Venetia la ricca, Genoua la ſuperba, Fiorenza la bella, Napoli la gentile.</l>
+                     <l>
+                        <note place="margin">Prouerbio Napolitano.</note>Balſant di quatro, ò vendre, ò barratre: Balſant di tre caual di Re: Balſant d'vno, non dar anniſſuno,</l>
+                     <l>
+                        <hi>Di tre coſe il Fiorentino ne fa vna frulla,</hi> A Dio, mi raccommando, vuoi tu nulla.</l>
+                     <l>
+                        <note place="margin">Del Petrar<g ref="char:EOLhyphen"/>cha.</note>Piaga antiueduta aſſai men duole.</l>
+                     <l>E meglio hauer vn buon porco, ch' vna bella toſa.</l>
+                     <l>Non ſtuzzicar il can che dorme.</l>
+                     <l>Dall'vnghie ſi conoſce il Leone.</l>
+                     <l>Chi muore in campo, muore in letto d'honore.</l>
+                     <l>Non ſi ponno coglier le roſe ſenza punger le mani.</l>
+                  </lg>
+                  <div type="part">
+                     <head>Motti brieui ch'hanno del Prouerbio.</head>
+                     <lg>
+                        <l>Coſtui ha del ſale in zucca: <hi>cio è egl'è molto ingenioſo.</hi>
+                        </l>
+                        <l>Donna<note n="*" place="margin">The fore<g ref="char:EOLhyphen"/>name vſed to be giuen to a Nunne.</note> monna Zucca al vento: <hi>cio è di poco ceruello.</hi>
+                        </l>
+                        <l>Piaccia a Dio che la mia Zucca mandi fuori il ſuo ſeme.</l>
+                        <pb n="29" facs="tcp:151082:46"/>
+                        <l>Io caualco alla<note n="*" place="margin">A light horſe man.</note> ſtradiotta, pochi arneſi mi fanno.</l>
+                        <l>Ha tanti libri di lettere in capo ch' vn Aſino ne ſarebbe ca<g ref="char:EOLhyphen"/>rico.</l>
+                        <l>La tua opera anderà in monte.</l>
+                        <l>Ma vegniamo a meza lama: Gli dette vna buona<note n="*" place="margin">Knoke.</note> picchia<g ref="char:EOLhyphen"/>ta: Saltò di<note n="*" place="margin">Stake.</note> Palo in<note n="*" place="margin">A bough of a tree.</note> fraſca.</l>
+                        <l>Gli ho dato con la sferza vn buon cauallo.</l>
+                        <l>Ho ſerbato vn colpo maeſtro.</l>
+                        <l>I poueri<note n="*" place="margin">Great heddes.</note> capeſſoni han fatto il pane.</l>
+                        <l>Egl'ha poſto il tetto. Succia ſu quello.</l>
+                        <l>Dice le coſe ſi alte che non ſi puo pigliar la<note n="*" place="margin">The ſight.</note> mira.</l>
+                        <l>De gli incorrigibili ſi dè mandar le radice al ſole.</l>
+                        <l>Se voi vì laſciate l'oſſa, voſtro danno: La malitia ha fatte profondiſsime radici: Sò che tu l'hai hau<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ta buona á ca<g ref="char:EOLhyphen"/>pello: Gli ignoranti ſono pur creſciuti ſenza<note n="*" place="margin">To water</note> inaffarli.</l>
+                        <l>Come ha tocco dne volte in capo di meſſer Eccellente, egli gomfia, come vna<note n="*" place="margin">A Toado.</note> botta. Si vantaua d'amazzar l'aria: Star non ſi può a petto con lui: Dar la ſtretta ad vno.</l>
+                        <l>Hebbe nome mezzo forfante, mezzo mariuolo, il reſte poi era tutto poltrone.</l>
+                        <l>Vn certo mercantuzzo di ſtringhe: Vn Aſinaccio da baſtone: Vn beſtionacchio ſperticato da venderlo à canne come i campi, ò à farui preſente á vn lungo remo: Vn Aſinac<g ref="char:EOLhyphen"/>cio pezzo d'huomo: Vn beſtiuolo dá poco ceruello.</l>
+                        <l>Lo darà il Boia bello, &amp; fritto al diauolo: Lo dò alle forche: Mi ritirai con queſto cocomero nel capo alla villa. S' è cauata la maſchera.</l>
+                        <l>Non penſate ch' io vocelli á preſenti: Vn huomo alquanto di ſale. Heueua il piede in due ſtaffe: <hi>cio è ſi poteua ò bene ò male interpretar i fatti ò i detti ſuoi.</hi>
+                        </l>
+                        <l>Gl'hauete tolto quello á torto, che non gli potete rendere á ragione, <hi>cio è la vita:</hi> Chi così vuol, così habbia:</l>
+                        <l>Io ti daró tanti, &amp; tanti, ch' io ti cauer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> il<note n="*" place="margin">Skoffinge, or ieſtinge.</note> ruzzo del capo.</l>
+                        <l>Non me ne ſo né grado, né gratia.</l>
+                        <pb n="28" facs="tcp:151082:47"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="29" facs="tcp:151082:47"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="30" facs="tcp:151082:48"/>
+                        <l>Pare che quella coſa cerchi il ſuo centro.</l>
+                        <l>Poi alla fine ſono iti à monte con gli altri.</l>
+                        <l>Gl'é terreno da piantar carotte: Ha l'ali più grandi ch' il nido: Più sù ſta mona Luna: Dà del buon per la pace: Hà la fede Greca, <hi>cio è egl'è diſleale:</hi> Dorme con gli occhi aperti: A lui ſi cangiò il pelo: Che ſi dè far dunquc? Stringer le ſpalle: Dare il *<note place="margin">Ouerwaight, or the ſha<g ref="char:EOLhyphen"/>king.</note> crollo alla bilancia: Colui fù il primo che ruppe il ghiaccio: Gli s' è portato il cap<g ref="char:EOLhyphen"/>pello roſſo, <hi>cio è ha hauuto la buona nuoua:</hi> Ha vnto le mani ál guidice: Ha cattiui vicini: M'ha dato à cre<g ref="char:EOLhyphen"/>dere<note n="*" place="margin">Gloowe wormes.</note> lucciole per lanterne: Coſtui braua à credenza: Ho dato nello ſcartato: Há preſo vn granchio: ha man<g ref="char:EOLhyphen"/>giato vn' oſſo: voi empiete la valigia come vn zoccolan<g ref="char:EOLhyphen"/>te<note n="*" place="margin">Without paying any thing.</note> à ſcrocco. Dormite al par d'el piumaccio: Ei ſuda di bel Gennaio: Hà piſciato in più neue: Io ho reſo l'arme à San Giorgio: Si meſſe in dozzena con le ſtringhe rotte. Sono ſaui à credenza, &amp; matti á contanti. Di tal mo<g ref="char:EOLhyphen"/>neta l'hauete pagato, quali erano ſtate le derrate vendute. Tu che non hai ancora raſciuti gl'occhi. Egli haueua á buona<note n="*" place="margin">A ringe in a wall.</note> cauiglia legato l'Aſino: A madonna poco fila gli ſi tringeuano i *<note place="margin">The garters.</note> cintolini. Coſtei ſente del ſcemo. E terreno da' ferri miei. <hi>Star con le Muſe in Parna<g ref="char:EOLhyphen"/>ſo, fare faſcio d'ogni herba.</hi>
+                        </l>
+                        <l>Amioi di proferta aſſai ſi truoua</l>
+                        <l>Ancor chi ſtanno con la borſa aperta,</l>
+                        <l>Quando ſi vien al fatto della pruoua,</l>
+                        <l>Borſa ſerrata, amici non ſi truoua.</l>
+                        <l>Chi dá toſto, dá due volte.</l>
+                        <l>La gratia preſta ſi radoppia, &amp; la tarda ſuaniſce.</l>
+                        <l>Le gratie non aſpettate, ſoglion eſſer più grate.</l>
+                        <l>Ma non ſi può sforzare il Popone.</l>
+                        <l>In fine in fine i guai col pane ſono buoni, &amp; ogni coſa ha il ſuo rimedio, fuor che la morte.</l>
+                        <pb n="31" facs="tcp:151082:48"/>
+                        <l>La morte anchora dá minor pena, che l'indugio della morte.</l>
+                        <l>E molto meglio toſto morire, che viuendo languire.</l>
+                        <l>La morte di ſe ſteſſa non è miſera, ma la via che conduce álla morte è miſera.</l>
+                        <l>E meglio ritornar in dietrò, che andar errando inanzi.</l>
+                        <l>Meglio è goderſi il poco, ch' il bramar aſſai contrauaglio.</l>
+                        <l>L'huomo riſoluto non depende dalle coſe a venire: l'aſpetta, ſi bene: &amp; gode (il meglio ch' egli può) le coſe preſenti: <hi>Del Autore.</hi>
+                        </l>
+                     </lg>
+                  </div>
+                  <closer>
+                     <signed>Se non contento, almen riſoluto. C. M.</signed>
+                  </closer>
+                  <trailer>
+                     <figure>
+                        <p>T.V.</p>
+                     </figure>
+                  </trailer>
+                  <pb facs="tcp:151082:49"/>
+                  <pb facs="tcp:151082:49"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
